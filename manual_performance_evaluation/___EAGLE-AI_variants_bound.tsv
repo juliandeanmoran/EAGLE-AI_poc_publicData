@@ -1,0 +1,34 @@
+Variant	Chromosome	Position	Type	Zygosity	rsID	Gene
+NA	19	0	NA	NA	NA	CACNA1A
+c.5126T>C / p.I1709T	19	0	Missense	Heterozygous	rs121909326	CACNA1A
+NA	19	0	NA	NA	NA	CACNA1A
+NA	19	0	NA	Heterozygous	NA	CACNA1A
+p.R1664Q	19	0	missense	heterozygous	NA	CACNA1A
+p.V1392M	19	0	missense	heterozygous	NA	CACNA1A
+0.085 Mb deletion on chromosome 19 (Chr19.hg18:g.13380344_13465506del)	19	chr19:13,380,34413,465,506	Deletion (copy number variant)	Heterozygous	NA	CACNA1A
+NA	19	0	NA	NA	NA	CACNA1A
+De novo LGD mutation in GIGYF2	2	0	LGD	heterozygous	NA	GIGYF2
+Mosaic FMR1 mutation comprising (a) a full mutation allele with >200 CGG repeats, (b) a premutation allele with 160 CGG repeats, and (c) an allele with an 83?bp deletion with a 1?bp (A) insertion in the 5? untranslated region resulting in only one CGG repeat.	X	0	Repeat expansion combined with an indel event	Mosaic	NA	FMR1
+Homozygous null mutation in FMR1	X	0	Null mutation	Homozygous	NA	FMR1
+c.229delT (p.Cys77Alafs*5)	X	0	Frameshift deletion (loss-of-function)	Hemizygous	NA	FMR1
+Hemizygous exon deletion in FMR1	X	0	Exon deletion	Hemizygous	NA	FMR1
+CGG repeat expansion (>200 repeats) in the 5' UTR of the FMR1 gene	X	0	Trinucleotide repeat expansion	Undetermined	NA	FMR1
+c.1489C>T; p.(Arg497?)	13	13q34	nonsense	heterozygous	NA	CHAMP1
+c.542_543delCT; p.(Ser181Cysfs?5)	13	13q34	frameshift	heterozygous	NA	CHAMP1
+p.(Trp348?)	13	13q34	nonsense	heterozygous	NA	CHAMP1
+p.(Arg398?)	13	13q34	nonsense	heterozygous	NA	CHAMP1
+p.(Tyr709?)	13	13q34	nonsense	heterozygous	NA	CHAMP1
+Heterozygous truncating mutation in CHAMP1	13	0	truncating mutation	heterozygous	NA	CHAMP1
+chr17(GRCh37):g.7803326A>G, NM_001005273.2:c.2657A>G, p.(His886Arg)	17	chr17:7803326A>G	missense	heterozygous	NA	CHD3
+Likely pathogenic CHD3 missense variant (detailed genomic coordinates not provided).	17	Not provided	missense	heterozygous	NA	CHD3
+Likely pathogenic CHD3 missense variant (detailed genomic information not provided).	17	Not provided	missense	heterozygous	NA	CHD3
+c.1489C>T; p.(Arg497?)	13	13q34	nonsense	heterozygous	NA	CDKL5
+c.542_543delCT; p.(Ser181Cysfs?5)	13	13q34	frameshift	heterozygous	NA	CDKL5
+p.(Trp348?)	13	13q34	nonsense	heterozygous	NA	CDKL5
+p.(Arg398?)	13	13q34	nonsense	heterozygous	NA	CDKL5
+p.(Tyr709?)	13	13q34	nonsense	heterozygous	NA	CDKL5
+Heterozygous truncating mutation in CHAMP1	13	0	truncating mutation	heterozygous	NA	CDKL5
+NM_007327.3 c.679G>C; p.Asp227His	9	chr9:140051128	missense	homozygous	NA	GRIN1
+chrX:41,586,906 C>A (hg38); NM_001126055: c.1296+1G>T	X	chrX:41,586,906	Splice site	Hemizygous	NA	CASK
+chrX:41437672C>A, NM_003688.3(CASK):c.1424G>T [p.Ser475Ile]	X	chrX:41437672C>A	missense	hemizygous	NA	CASK
+chrX:41437672C>A, NM_003688.3(CASK):c.1424G>T [p.Ser475Ile]	X	chrX:41437672C>A	missense	heterozygous	NA	CASK

@@ -1,0 +1,37 @@
+Publication	Case ID	Sex	Age	Phenotypes	Score	Gene
+Ashlesha Gogate, et al (2024)	MC_005_3	Unknown	Not specified	ASD; developmental and epileptic encephalopathy	0.0	CDKL5
+Ashlesha Gogate, et al (2024)	MC_064_3	Unknown	Not specified	ASD; variant in CDKL5 without additional phenotype detail	0.0	CDKL5
+Ashlesha Gogate, et al (2024)	MC_154_3a	Unknown	Not specified	ASD; developmental and epileptic encephalopathy	0.0	CDKL5
+Hamid Khan, et al (2024)	PKASD-18	Male	7 years	ASD, intellectual disability, aggressive behavior, self-injury	0.1	CDKL5
+José J. Vázquez-Montante, et al (2022)	Case 1	Female	6 months	CDKL5 deficiency syndrome; Global developmental delay; Epilepsy; Autistic behavioral features	2.0	CDKL5
+José J. Vázquez-Montante, et al (2022)	Case 2	Female	9 years	CDKL5 deficiency syndrome; Global developmental delay; Epilepsy; Autistic behavioral features	2.0	CDKL5
+Marianna Tassinari, et al (2023)	CDD_Mouse_Model_01	Male	Postnatal day 7 to 60 (mouse model)	Autistic features, impaired neurodevelopment, abnormal dendritic and synaptic morphology, and enhanced microglial activation	3.0	CDKL5
+Mellone S, et al (2022)	CDKL5_ASD_01	Unknown	Not specified	ASD	0.0	CDKL5
+Tianyun Wang, et al (2016)	CDKL5_1	Unknown	Not specified	ASD	2.0	CDKL5
+Dustin Baldridge, et al (2024)	CACNA1A_CASE01	Unknown	Not specified	Autism Spectrum Disorder, seizures, developmental delay	0.1	CACNA1A
+Vithayathil et al (2022)	VITHAYATHIL2022_CACNA1A_p.I1709T	Male	Adolescent	Autism Spectrum Disorder, acute catatonia, status epilepticus, unilateral (right-sided) hemiplegia, left hemispheric MRI changes	1.0	CACNA1A
+Castagnola S, et al (2018)	Damaj2015_CACNA1A_variant	Unknown	Not specified	Autism spectrum disorder, intellectual disability, attention deficit, hyperactivity	0.0	CACNA1A
+Wen?Xiong Chen, et al (2022)	CACNA1A_DE_NOVO_CASE_01	Male	Approximately 3 years	Autism spectrum disorder, intellectual disability, language delay.	0.3	CACNA1A
+Miriam Kessi, et al (2023)	HOSP_ASD_CACNA1A_R1664Q	Unknown	Not specified	Autism spectrum disorder (ASD); additional features not further delineated.	0.1	CACNA1A
+Miriam Kessi, et al (2023)	LIT_ASD_CACNA1A_p.V1392M	Unknown	Not specified	Autism spectrum disorder (ASD); additional clinical features are not detailed.	0.25	CACNA1A
+Damaj L, et al (2015)	F4_ASD_DEL19p13.13	Male	2.5 years	Global developmental delay, ADOS-confirmed ASD, motor impairments, social communication deficits, stereotypic behaviors, impulsivity.	1.5	CACNA1A
+Long S, et al (2019)	CACNA1A_01	Unknown	Not specified	Epilepsy, ASD meeting DSM-V criteria, neurodevelopmental delays	0.1	CACNA1A
+Tianyun Wang, et al (2016)	GIGYF2_case_1	Unknown	Not specified	ASD with neurodevelopmental comorbidities	2.0	GIGYF2
+Becker M, et al (2020)	ASDCASK_SS_CASK_c.1296+1G>T	Male	Not specified	ASD, ADHD, tic disorder, mild cerebral atrophy, subtle cerebellar hypoplasia.	2.0	CASK
+Toshiyuki Seto, et al (2017)	Patient 1	Male	5 years	ASD, intellectual disability, microcephaly, and global developmental delay.	0.5	CASK
+Toshiyuki Seto, et al (2017)	Patient 2	Female	3 years	ASD and mild motor developmental delay with normal head circumference.	0.1	CASK
+Madison Garrity, et al (2021)	CHAMP1-01	Female	9.3 years (approximate cohort average)	Autism spectrum disorder, intellectual disability, developmental delay	2.5	CHAMP1
+Madison Garrity, et al (2021)	CHAMP1-02	Male	9.3 years (approximate cohort average)	Autism spectrum disorder, intellectual disability, hypotonia, developmental delay	2.0	CHAMP1
+Madison Garrity, et al (2021)	CHAMP1-03	Female	9.3 years (approximate cohort average)	Autism spectrum disorder, intellectual disability, developmental delay	2.5	CHAMP1
+Madison Garrity, et al (2021)	CHAMP1-04	Male	9.3 years (approximate cohort average)	Autism spectrum disorder, intellectual disability, microcephaly, developmental delay	2.5	CHAMP1
+Madison Garrity, et al (2021)	CHAMP1-05	Female	9.3 years (approximate cohort average)	Autism spectrum disorder, intellectual disability, developmental delay	2.5	CHAMP1
+Feng Li, et al (2025)	GM27912	Unknown	Not specified	CHAMP1 syndrome, intellectual disability, behavioral symptoms	2.0	CHAMP1
+Du X, et al (2022)	FMR1_Mosaic_FullMutation	Male	Not specified	Mixed receptive?expressive language disorder, fine motor delay, tracheoesophageal fistula; abnormal methylation pattern in FMR1 consistent with Fragile X syndrome	1.0	FMR1
+Chakraborty S, et al (2022)	FMR1_Fragile_X_001	77% male	2 to 51 years	Autistic behaviors, attention deficits, hyperactivity, aggression, anxiety, structural brain anomalies	2.0	FMR1
+Wilmar Saldarriaga, et al (2020)	FMR1_001_c229delT	Male	5 years	Dysmorphic facial features (ears, long face, persistently open mouth with low facial tone, epicanthal folds, cleft palate, macrognathia), joint hypermobility, flat feet; neurodevelopmental delays; severe ASD features including poor social engagement and repetitive/self-injurious behaviors	0.0	FMR1
+Redin C, et al (2014)	FMR1_EXONDEL_001	Male	Not specified	Intellectual Disability, Fragile X syndrome features	1.0	FMR1
+Gunapala KM, et al (2024)	1	Unknown	Not specified	Autism spectrum disorder features, intellectual disability, and other neurodevelopmental abnormalities associated with Fragile X Syndrome	2.5	FMR1
+Massimiliano Rossi, et al (2017)	F1P1	Female	7 years 8 months	Severe intellectual disability, developmental delay, hypotonia, facial dysmorphism (frontal bossing, mild midface hypoplasia), autistic features, and abnormal brain MRI findings (mild cerebral atrophy, thin corpus callosum).	0.1	GRIN1
+Juliette Coursimault, et al (2021)	1	Male	21	Macrocephaly; dysmorphic facial features including large forehead, thin/sparse lateral eyebrows, telecanthus, hypertelorism, enophthalmia, strabismus, midface hypoplasia, broad nose, pointed chin; hypotonia; and hypersociability	0.0	CHD3
+Patricia Pascual, et al (2023)	Family_P14	Male	Not specified	ASD, moderate intellectual disability, global developmental delay.	0.1	CHD3
+Patricia Pascual, et al (2023)	Patient_ASD_2	Unknown	Not specified	ASD, global developmental delay.	0.5	CHD3

@@ -1,0 +1,59 @@
+publication	gene	curator_assigned_case_id	eagle-ai_assigned_case_id	case_in_eagle	case_id_match	curator_assigned_variant_id	eagle-ai_variant_id	variant_in_eagle	variant_enough_info	variant_id_match	phenotype_accuracy_rating	manual_score	eagle_ai_score	score_diff
+tassinari_2023	CDKL5	mouse_KO_wang_2012	NA	FN	False	NA	NA	NA	NA	NA	NA	2.0	0.0	2.0
+tassinari_2023	CDKL5	mouse_KO_ren_2019	CDD_Mouse_Model_01	TP	False	NA	NA	NA	NA	NA	NA	2.0	3.0	1.0
+tassinari_2023	CDKL5	mouse_KO_amendola_2014	NA	TN	False	NA	NA	NA	NA	NA	NA	0.0	0.0	0.0
+khan_2024	CDKL5	PKASD-18	PKASD-18	TP	True	NM_003159.3:c.2626A>G	NM_003159.3:c.2626A>G; p.Ile876Val in CDKL5	TP	True	False	8.0	0.1	0.1	0.0
+khan_2024	CDKL5	codina_sola_CDKL5_P1	NA	FN	False	p.Pro647Leu	NA	FN	False	False	NA	0.1	0.0	0.1
+khan_2024	CDKL5	MSSNG_CDK1L5_P1	NA	FN	False	NM_003159:c.16A>G	NA	FN	False	False	NA	0.1	0.0	0.1
+khan_2024	CDKL5	MSSNG_CDK1L5_P2	NA	FN	False	NM_003159:c.92G>A	NA	FN	False	False	NA	0.1	0.0	0.1
+khan_2024	CDKL5	MSSNG_CDK1L5_P3	NA	FN	False	NM_003159:c.2572C>T	NA	FN	False	False	NA	0.1	0.0	0.1
+khan_2024	CDKL5	MSSNG_CDK1L5_P4	NA	FN	False	NM_003159:c.2635_2636del:p.L879fs	NA	FN	False	False	NA	1.5	0.0	1.5
+khan_2024	CDKL5	ASC_CDK1L5_P1	NA	TN	NA	NA	NA	TN	NA	NA	NA	0.0	0.0	0.0
+wang_2016	CDKL5	SKLMG_M01813	CDKL5_1	TP	False	hg19:chrX:18668586C>T	De novo LGD mutation in CDKL5 (genomic coordinates and specific nucleotide change not provided)	FN	False	False	10.0	2.0	2.0	0.0
+wang_2016	CDKL5	SKLMG_M26436	NA	FN	False	hg19:chrX:18668586C>T	NA	FN	False	False	NA	1.5	0.0	1.5
+wang_2016	CDKL5	SKLMG_M20612	NA	FN	False	hg19:chrX:18606108G>C	NA	FN	False	False	NA	0.1	0.0	0.1
+wang_2016	CDKL5	SKLMG_M18380	NA	FN	False	hg19:chrX:18622630G>C	NA	FN	False	False	NA	0.1	0.0	0.1
+wang_2016	CDKL5	SKLMG_M13442	NA	FN	False	hg19:chrX:18638000A>G	NA	FN	False	False	NA	0.1	0.0	0.1
+wang_2016	CDKL5	SKLMG_M20272	NA	TN	False	hg19:chrX:18622983C>A	NA	TN	NA	NA	NA	0.0	0.0	0.0
+mellone_2022	CDKL5	10851	CDKL5_ASD_01	TP	False	hg19:chrX:18668529:G>A	NA	FN	False	False	7.0	1.0	0.1	0.9
+gogate_2024	CDKL5	MC_005_3	MC_005_3	TP	True	chrX:18595364A>G	NA	TP	True	False	6.0	0.1	0.1	0.0
+gogate_2024	CDKL5	MC_064_3	MC_064_3	TP	True	chrX:18625233G>C	NA	TP	True	False	8.0	0.1	0.1	0.0
+gogate_2024	CDKL5	MC_154_3	MC_154_3a	TP	False	chrX:18604102C>T	NA	TP	True	False	6.0	0.1	0.1	0.0
+coursimault_2021	CHD3	Index case	1	TP	False	(GRCh37):g.7803326A>G	chr17(GRCh37):g.7803326A>G, NM_001005273.2:c.2657A>G, p.(His886Arg)	TP	True	False	1.0	0.5	0.0	0.5
+pascual_2023	CHD3	Family 12; Patient 14	Family_P14	TP	False	NM_001005271.3:c.4042G>A; (p.Ala1348Thr)	Likely pathogenic CHD3 missense variant (detailed genomic coordinates not provided).	FN	False	False	10.0	0.1	0.1	0.0
+pascual_2023	CHD3	pascual_2023_P3	Patient_ASD_2	TP	False	NA	Likely pathogenic CHD3 missense variant (detailed genomic coordinates not provided).	TN	NA	NA	8.0	0.0	0.5	0.5
+du_2020	FMR1	du_2022_P1	FMR1_Mosaic_FullMutation	FP	False	mosaicism for a full mutation, premutation, and deletion of the CGG repeats in FMR1	Mosaic FMR1 mutation comprising (a) a full mutation allele with >200 CGG repeats, (b) a premutation allele with 160 CGG repeats, and (c) an allele with an 83?bp deletion with a 1?bp (A) insertion in the 5? untranslated region resulting in only one CGG repeat.	TP	True	False	10.0	0.0	1.0	1.0
+saldarriaga_2020	FMR1	saldarriaga_2020_P1	FMR1_001_c229delT	TP	False	c.229delT	c.229delT (p.Cys77Alafs*5)	TP	True	False	8.0	2.0	0.0	2.0
+chakraborty_2022	FMR1	NA	FMR1_Fragile_X_001	FP	False	NA	Homozygous null mutation in FMR1	FP	NA	False	0.0	0.0	2.0	2.0
+redin_2014	FMR1	APN-26	FMR1_EXONDEL_001	FP	False	last-exon deletion	Hemizygous exon deletion in FMR1	TP	False	False	9.0	0.0	1.0	1.0
+gunapala_2020	FMR1	NA	1	FP	False	NA	CGG repeat expansion (>200 repeats) in the 5' UTR of the FMR1 gene	FP	False	False	0.0	0.0	2.5	2.5
+massimiliano_2017	GRIN1	massimiliano_2017_P1	F1P1	TP	False	hg19:chr9:g.140051128G>C	NM_007327.3 c.679G>C; p.Asp227His	TP	True	True	10.0	0.1	0.1	0.0
+massimiliano_2017	GRIN1	massimiliano_2017_P2	NA	TN	NA	hg19:chr9:g.140051128G>C	NA	NA	NA	NA	NA	0.0	0.0	0.0
+baldridge2024	CACNA1A	NA	CACNA1A_CASE01	FP	False	NA	NA	NA	NA	NA	NA	0.0	0.1	0.1
+castagnola2018	CACNA1A	NA	Damaj2015_CACNA1A_variant	TN	False	NA	NA	NA	NA	NA	NA	0.0	0.0	0.0
+chen2022	CACNA1A	NA	CACNA1A_DE_NOVO_CASE_01	TP	False	NA	NA	NA	NA	NA	NA	0.0	0.3	0.3
+damaj2019	CACNA1A	Family 1, Patient 4.1	NA	FN	False	hg19:chr19:g.13387936G>A	NA	FN	False	False	NA	1.25	0.0	1.25
+damaj2019	CACNA1A	Family 2, Patient 4.1 [excluded]	NA	TN	True	hg19:chr19:g.13409580_13409582del	NA	TN	NA	NA	NA	0.0	0.0	0.0
+damaj2019	CACNA1A	Family 3, Patient 3.1 [excluded]	NA	TN	True	NM_000068.3:c.868+5G>A	NA	TN	NA	NA	NA	0.0	0.0	0.0
+damaj2019	CACNA1A	Family 4, Patient 3.1	F4_ASD_DEL19p13.13	TP	False	hg19:chr19:g.13409580_13409582del	0.085 Mb deletion on chromosome 19 (Chr19.hg18:g.13380344_13465506del)	TP	True	False	9.0	1.5	1.5	0.0
+indelicato2021	CACNA1A	NA	NA	TN	True	NA	NA	TN	NA	True	NA	0.0	0.0	0.0
+kessi_2023	CACNA1A	kessi_2023_P1	HOSP_ASD_CACNA1A_R1664Q	TP	False	hg19:chr19:13414587G>A	p.R1664Q	FP,FN	False	False	5.0	0.5	0.1	0.4
+kessi_2023	CACNA1A	kessi_2023_P4	LIT_ASD_CACNA1A_p.V1392M	TP	False	hg19:chr19:13616854A>G	p.V1392M	FP,FN	False	False	5.0	0.5	0.25	0.25
+li_2015	CACNA1A	NA	NA	TN	True	NA	NA	TN	NA	True	NA	0.0	0.0	0.0
+li_2015	CACNA1A	NA	NA	NA	NA	NA	NA	TN	NA	True	NA	0.0	0.0	0.0
+long_2019	CACNA1A	long_2019_P014	CACNA1A_01	TP	False	hg19:chr19:13373594-13373594G>A	NA	FN	False	False	9.0	0.5	0.1	0.4
+long_2019	CACNA1A	long_2019_P021	NA	FN	False	hg19:chr19:13373567-13373570del	NA	FN	False	False	NA	0.5	0.0	0.5
+vithayathil_2022	CACNA1A	vithayathil_2022_P1	VITHAYATHIL2022_CACNA1A_p.I1709T	TP	False	c.5126T>C	p.I1709T	TP	True	False	9.0	0.25	1.0	0.75
+garrity_2021	CHAMP1	I-3	CHAMP-01	TP	False	NM_032436.4:c.959dup; p.Arg321?	c.542_543delCT; p.(Ser181Cysfs?5)	FP,FN	False	False	7.0	1.0	2.5	1.5
+garrity_2021	CHAMP1	I-7	CHAMP-02	TP	False	NM_032436.4:c.1489C>T	c.1489C>T; p.(Arg497?)	TP	False	False	7.0	1.0	2.0	1.0
+garrity_2021	CHAMP1	I-8	CHAMP-03	TP	False	NM_032436.4:c.1489C>T	p.(Trp348?)	FP,FN	False	False	7.0	1.0	2.5	1.5
+garrity_2021	CHAMP1	I-9	CHAMP-04	TP	False	NM_032436.4:c.1544G>A	p.(Arg398?)	FP,FN	False	False	7.0	1.0	2.5	1.5
+garrity_2021	CHAMP1	I-11	CHAMP-05	TP	False	NM_032436.4:c.1850dup	p.(Tyr709?)	FP,FN	False	False	7.0	1.0	2.5	1.5
+li_2025	CHAMP1	GM27912	NA	FP	False	NA	NA	NA	NA	NA	NA	0.0	2.0	2.0
+wang_2016	GIGYF2	SKLMG_M23762	GIGYF2_case_1	TP	False	Chr21(GRCh37):g.38853069G>T	De novo LGD mutation in GIGYF2	FN	False	False	6.0	2.0	2.0	0.0
+becker_2020	CASK	becker_2020_ASD_twin_1	ASDCASK_SS_CASK_c.1296+1G>T	TP	False	NM_001126055:c1296+1G>T	chrX:41,586,906 C>A (hg38); NM_001126055: c.1296+1G>T	TP	True	False	10.0	2.5	2.0	0.5
+becker_2022	CASK	becker_2020_2018ASD_twin_2	NA	TN	NA	NA	NA	NA	NA	NA	NA	0.0	0.0	0.0
+becker_2024	CASK	becker_2020_2018_ID_P1	NA	TN	NA	NA	NA	NA	NA	NA	NA	0.0	0.0	0.0
+seto_2017	CASK	seto_2017_P1	Patient 1	TP	False	NM_003688.3:c.1424G>T	chrX:41437672C>A, NM_003688.3(CASK):c.1424G>T [p.Ser475Ile]	TP	True	False	8.0	0.1	0.5	0.4
+seto_2017	CASK	seto_2017_P2	Patient 2	FP	False	NM_003688.3:c.1424G>T	chrX:41437672C>A, NM_003688.3(CASK):c.1424G>T [p.Ser475Ile]	TP	True	False	8.0	0.0	0.1	0.1
+zhang_2023	CASK	NA	NA	NA	NA	mouse:Cntnap2-/-	NA	NA	NA	False	NA	2.0	0.0	2.0

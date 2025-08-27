@@ -1,0 +1,5 @@
+Model,EAGLE Cases,Overall Score %,Mean EAGLE Score Diff
+BiLSTM (NER),75,83,50
+Fine-Tuned LLM,91,90,20
+Zero-Shot (o1),94,89,40
+3-Shot (o1),96,92,30

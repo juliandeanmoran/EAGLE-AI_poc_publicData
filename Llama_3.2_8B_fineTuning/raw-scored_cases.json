@@ -1,0 +1,311 @@
+[
+  {
+    "title": "A novel hypomorphic MECP2 point mutation is associated with a neuropsychiatric phenotype",
+    "author": "Adegbola AA, et al",
+    "pmid": "18985372",
+    "cases": [
+      {
+        "case_id": "Proband",
+        "gene_symbol": "MECP2",
+        "description": "The proband, a 10-year old nondysmorphic female, is the only child of her parents. After a period of generally normal development, slowing of motor skills and hypotonia began at 12 months of age without documented regression. She was diagnosed with pervasive developmental disorder-not otherwise specified (PDD-NOS) at age 7 because of her insistence on sameness, preference for rituals, chronic inflexibility, inability to sustain conversations, and poor recognition of verbal and nonverbal cues.",
+        "age": "10 years",
+        "sex": "female",
+        "phenotypes": "Frequent falls, fatigue, used Gowers' maneuver; complete absence of dystrophin on immunoperoxidase staining; variation in myofiber size and active degeneration on H&E stain",
+        "phenotype_confidence": "high",
+        "ia_category": "a",
+        "variant": "NC_000023.11:g.33162217-33378800",
+        "variant_type": "predicted_null",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0.1,
+        "initial_genetic_score": 0.1,
+        "score_rationale": "Variant: proven_null (unknown) | Initial score: 0.1 (range: 0-0.1) | Final score: 0.1",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": 0
+      }
+    ]
+  },
+  {
+    "title": "Autistic-like Behaviors Associated with a Novel Non-Canonical Splice-Site DDX3X Variant: A Case Report of a Rare Clinical Syndrome",
+    "author": "Stefaniak U, et al",
+    "pmid": "35336796",
+    "cases": [
+      {
+        "case_id": "Proband",
+        "gene_symbol": "DDX3X",
+        "description": "We report a 7 year old nonverbal female with a likely novel de novo pathogenic heterozygous variant in the DDX3X gene affecting the non-canonical splice-site in the intron 1. An evaluation at three years of age revealed behaviors related to ASD, such as stereotypy, problems with imitation movements that suggested problems with mirror neurons, and dysfunction with sensory processing: tactile defensiveness, lack of speech, and occasional sleep disturbances.",
+        "age": "7 years",
+        "sex": "female",
+        "phenotypes": "Brachycephaly; flattened face; high forehead; narrow nose; spinal asymmetry; arachnoid cyst in right temporal lobe; segmented cortical thickness; delayed white matter myelination",
+        "phenotype_confidence": "high",
+        "ia_category": "d",
+        "variant": "c.45+12G>A",
+        "variant_type": "other",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0.5,
+        "initial_genetic_score": 0.5,
+        "score_rationale": "Variant: other (de_novo) | Splice type: non_canonical | Initial score: 0.75 (range: 0-1.5) | Phenotype adjustment (low confidence): -0.35 | Final quantized score: 0.4",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": 0
+      }
+    ]
+  },
+  {
+    "title": "Variant Profile of MECP2 Gene in Sri Lankan Patients with Rett Syndrome",
+    "author": "Hettiarachchi D, et al",
+    "pmid": "31541372",
+    "cases": [
+      {
+        "case_id": "5",
+        "gene_symbol": "MECP2",
+        "description": "p.T158M (c.473C>T) missense variant in a female patient with classic Rett syndrome. Normal development for first 6–18 months followed by regression in motor, language, and social skills.",
+        "age": "5 years",
+        "sex": "female",
+        "phenotypes": "Regression of acquired hand skills and spoken language; gait abnormalities; stereotypic hand movements",
+        "phenotype_confidence": "high",
+        "ia_category": "d",
+        "variant": "c.473C>T",
+        "variant_type": "missense",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0,
+        "initial_genetic_score": 0.5,
+        "score_rationale": "Variant: missense (de_novo) | Initial score: 0.5 (range: 0-1.0) | Genotypic downgrades: Limited sequencing method (sanger sequencing of mecp2 exons 1–3): -0.5 | Final quantized score: 0",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": 0
+      },
+      {
+        "case_id": "7",
+        "gene_symbol": "MECP2",
+        "description": "p.T158M (c.473C>T) missense variant in a female patient with classic Rett syndrome. Normal development for first 6–18 months followed by regression in motor, language, and social skills.",
+        "age": "6 years",
+        "sex": "female",
+        "phenotypes": "Regression of acquired hand skills and spoken language; gait abnormalities; stereotypic hand movements",
+        "phenotype_confidence": "high",
+        "ia_category": "d",
+        "variant": "c.473C>T",
+        "variant_type": "missense",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0,
+        "initial_genetic_score": 0.5,
+        "score_rationale": "Variant: missense (de_novo) | Initial score: 0.5 (range: 0-1.0) | Genotypic downgrades: Limited sequencing method (sanger sequencing of mecp2 exons 1–3): -0.5 | Final quantized score: 0",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": 0
+      }
+    ]
+  },
+  {
+    "title": "Effectiveness of exome and genome sequencing guided by acuity of illness for diagnosis of neurodevelopmental disorders",
+    "author": "Soden SE, et al",
+    "pmid": "25473036",
+    "cases": []
+  },
+  {
+    "title": "Case Report: De novo DDX3X mutation caused intellectual disability in a female with skewed X-chromosome inactivation on the mutant allele",
+    "author": "Sun Y, et al",
+    "pmid": "36276707",
+    "cases": [
+      {
+        "case_id": "II-1",
+        "gene_symbol": "DDX3X",
+        "description": "The proband was a 10-year-old girl without family history. The symptoms of the proband included mild to moderate intellectual disability, delayed psychomotor development, poor speech development, infantile hypotonia, autism, and behavior problems. At the age of 7 years, she was diagnosed as autism spectrum disorder, the scores of childhood autism rating scale and autistic behavior checklist were 32 and 75.",
+        "age": "10 years",
+        "sex": "female",
+        "phenotypes": null,
+        "phenotype_confidence": "high",
+        "ia_category": "a",
+        "variant": "NM_001193416.3:c.694_711dup18",
+        "variant_type": "in_frame",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0.5,
+        "initial_genetic_score": 0.5,
+        "score_rationale": "Variant: in_frame (de_novo) | Initial score: 0.5 (range: 0-1.0) | Final quantized score: 0.5",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": 0
+      }
+    ]
+  },
+  {
+    "title": "Targeted re-sequencing for early diagnosis of genetic causes of childhood epilepsy: the Italian experience from the 'beyond epilepsy' project",
+    "author": "Amadori E, et al",
+    "pmid": "32653004",
+    "cases": [
+      {
+        "case_id": "2",
+        "gene_symbol": "MECP2",
+        "description": "Patient #2: Female, age 56 months, seizure onset at 36 months; tonic–clonic and absence seizures; non-verbal; language delay; motor delay; severe cognitive delay; psychomotor regression at 24 months; autistic-like behaviour (Rett-like phenotype).",
+        "age": "56 months",
+        "sex": "female",
+        "phenotypes": null,
+        "phenotype_confidence": "medium",
+        "ia_category": "d",
+        "variant": "NM_004992.3:c.1157_1186delinsA",
+        "variant_type": "predicted_null",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 1.0,
+        "initial_genetic_score": 1.25,
+        "score_rationale": "Variant: predicted_null (unknown) | Initial score: 1.25 (range: 0-2.0) | Final quantized score: 1.0",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": -0.25
+      },
+      {
+        "case_id": "12",
+        "gene_symbol": "MECP2",
+        "description": "Patient #12: Female, age 24 months; seizure onset at 24 months with tonic–clonic seizures; non-verbal; language delay; not walking; severe motor delay; autistic-like behaviour; microcephaly (Rett-like phenotype).",
+        "age": "24 months",
+        "sex": "female",
+        "phenotypes": null,
+        "phenotype_confidence": "low",
+        "ia_category": "d",
+        "variant": "NM_004992.3:c.397C>T",
+        "variant_type": "missense",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0.1,
+        "initial_genetic_score": 0.1,
+        "score_rationale": "Variant: missense (unknown) | Initial score: 0.1 (range: 0-0.1) | Final quantized score: 0.1",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": 0
+      }
+    ]
+  },
+  {
+    "title": "Expansion of Clinical and Genetic Spectrum of DDX3X Neurodevelopmental Disorder in 23 Chinese Patients",
+    "author": "Dai Y, et al",
+    "pmid": "35370468",
+    "cases": [
+      {
+        "case_id": "Female 1",
+        "gene_symbol": "DDX3X",
+        "description": "Female 1, age 2 years 3 months, presented with global developmental delay and an SCQ-Lifetime score of 20, above the ASD risk cutoff.",
+        "age": "2 years 3 months",
+        "sex": "female",
+        "phenotypes": "Refractive errors; ventricular enlargement",
+        "phenotype_confidence": "high",
+        "ia_category": "d",
+        "variant": "c.1084C>G",
+        "variant_type": "missense",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0.5,
+        "initial_genetic_score": 0.5,
+        "score_rationale": "Variant: missense (de_novo) | Initial score: 0.5 (range: 0-1.0) | Final quantized score: 0.5",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": 0
+      },
+      {
+        "case_id": "Female 8",
+        "gene_symbol": "DDX3X",
+        "description": "Female 8, age 3 years 5 months, SCQ-Lifetime score 22, at-risk for ASD.",
+        "age": "3 years 5 months",
+        "sex": "female",
+        "phenotypes": "White-matter volume reduction",
+        "phenotype_confidence": "low",
+        "ia_category": "d",
+        "variant": "c.1595C>T",
+        "variant_type": "missense",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0.25,
+        "initial_genetic_score": 0.5,
+        "score_rationale": "Variant: missense (de_novo) | Initial score: 0.5 (range: 0-1.0) | Phenotype adjustment (low confidence): -0.25 | Final quantized score: 0.25",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": -0.25
+      },
+      {
+        "case_id": "Female 16",
+        "gene_symbol": "DDX3X",
+        "description": "Female 16, age 5 years, SCQ-Lifetime score 17, at-risk for ASD.",
+        "age": "5 years",
+        "sex": "female",
+        "phenotypes": "Corpus callosum abnormalities",
+        "phenotype_confidence": "low",
+        "ia_category": "d",
+        "variant": "c.1703C>T",
+        "variant_type": "missense",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0.25,
+        "initial_genetic_score": 0.5,
+        "score_rationale": "Variant: missense (de_novo) | Initial score: 0.5 (range: 0-1.0) | Phenotype adjustment (low confidence): -0.25 | Final quantized score: 0.25",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": -0.25
+      },
+      {
+        "case_id": "Female 17",
+        "gene_symbol": "DDX3X",
+        "description": "Female 17, age 2 years 10 months, SCQ-Lifetime score 20, at-risk for ASD.",
+        "age": "2 years 10 months",
+        "sex": "female",
+        "phenotypes": "Ventricular enlargement",
+        "phenotype_confidence": "high",
+        "ia_category": "d",
+        "variant": "c.1679T>G",
+        "variant_type": "missense",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0.5,
+        "initial_genetic_score": 0.5,
+        "score_rationale": "Variant: missense (de_novo) | Initial score: 0.5 (range: 0-1.0) | Final quantized score: 0.5",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": 0
+      }
+    ]
+  },
+  {
+    "title": "Case Report: Lennox-Gastaut Epileptic Encephalopathy Responsive to Cannabidiol Treatment Associated With a Novel de novo Mosaic SHANK1 Variant",
+    "author": "Paprocka J, et al",
+    "pmid": "34956109",
+    "cases": [
+      {
+        "case_id": "SHANK1-01",
+        "gene_symbol": "SHANK1",
+        "description": "An 11-year-old boy with Lennox-Gastaut syndrome, global developmental delay, and autistic features without congenital defects or facial dysmorphic features and negative family history for neurodevelopmental disorders was referred for WES. On psychological evaluation, moderate intellectual disability and autism spectrum disorder were found.",
+        "age": "11 years",
+        "sex": "male",
+        "phenotypes": "Global developmental delay; hypotonia; no congenital defects or dysmorphic features",
+        "phenotype_confidence": "high",
+        "ia_category": "a",
+        "variant": "chr19:g.50716358C>G",
+        "variant_type": "missense",
+        "inheritance_pattern": "de_novo",
+        "zygosity": "heterozygous",
+        "final_score": 0.5,
+        "initial_genetic_score": 0.5,
+        "score_rationale": "Variant: missense (de_novo) | Initial score: 0.5 (range: 0-1.0) | Final quantized score: 0.5",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": 0
+      }
+    ]
+  },
+  {
+    "title": "Transcriptome and Genome Analysis Uncovers a DMD Structural Variant: A Case Report",
+    "author": "Folland C, et al",
+    "pmid": "36894419",
+    "cases": [
+      {
+        "case_id": "Proband",
+        "gene_symbol": "DMD",
+        "description": "The proband had a typical DMD clinical presentation with delayed motor development; he first walked at 18-20 months of age. He had ASD with poor socialization at school, no friends, and engaged in solo play. His IQ and language were within normal limits.",
+        "age": null,
+        "sex": "male",
+        "phenotypes": "Purposeful hand movements with occasional hand-wringing stereotypies; morbid obesity (BMI 35.7); abnormal EEG with multifocal sharp/spike discharges; genu valgum; pes planus",
+        "phenotype_confidence": "high",
+        "ia_category": "a",
+        "variant": "c.454C>G",
+        "variant_type": "missense",
+        "inheritance_pattern": "inherited",
+        "zygosity": "homozygous",
+        "final_score": 0.1,
+        "initial_genetic_score": 0.1,
+        "score_rationale": "Variant: missense (inherited) | Initial score: 0.1 (range: 0-0.1) | Final quantized score: 0.1",
+        "functional_data_adjustment": 0,
+        "phenotype_confidence_adjustment": 0
+      }
+    ]
+  }
+]

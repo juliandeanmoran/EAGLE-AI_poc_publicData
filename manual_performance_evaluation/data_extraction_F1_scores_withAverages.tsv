@@ -1,0 +1,5 @@
+	BiLSTM	Llama	agentic_0_shot	agentic_3_shot
+cases	83	90	90	93
+variants	75	87	83	89
+phenotype	80	89	90	91
+	79.33333333	88.66666667	87.66666667	91
