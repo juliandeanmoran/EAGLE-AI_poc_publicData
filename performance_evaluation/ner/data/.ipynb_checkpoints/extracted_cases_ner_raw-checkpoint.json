@@ -1,0 +1,2960 @@
+[
+    {
+        "title": "Genetic landscape of autism spectrum disorder in Vietnamese children",
+        "author": "Tran K, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "ASD059",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "C-section (3 kg)",
+                    "Phenotype": "Brain imaging: n/a; MRI: NAD; Sensation disorders; intellectual disability",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using ADOS 21/12; CARS 46; criteria: DSM-5",
+                    "Cognition": "ID reported; severity unknown."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "whole exome sequencing",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.2877A>C (p.Glu959Asp)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "moderate",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Not linked to ASD",
+                    "PreviousResearch": "Unknown",
+                    "VariantDetails": "exon; missense",
+                    "Note": "Source: ST1 clinical description...; Lines 761-763",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Comprehensive Analysis of Rare Variants of 101 Autism-Linked Genes in a Hungarian Cohort of Autism Spectrum Disorder Patients",
+        "author": "Balicza P, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "P7",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "Unknown",
+                    "Onset": "Low set ears, gothic palate, epicanthus, muscular dystrophy.",
+                    "Phenotype": "Low set ears, gothic palate, epicanthus, muscular dystrophy.; muscular dystrophy; dysmorphic features",
+                    "FamilyHistory": "Inherited from mother."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using ADI-R; ADOS",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "hg19; NM_004006",
+                    "ReportedVariant": "c.8713C>T (p.R2905X)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "pathogenic (ACMG P)",
+                    "Inheritance": "Inherited",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "Syndromic autism case; Duchenne muscular dystrophy. Source: Main text: Patients; Results (Syndromic Forms of ASD); Table 2",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Systematic resequencing of X-chromosome synaptic genes in autism spectrum disorder and schizophrenia",
+        "author": "Piton A, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "case_003",
+                    "Sex": "Female",
+                    "Age": "Unknown",
+                    "Severity": "Unknown",
+                    "Onset": "important psychomotor retardation",
+                    "Phenotype": "severe epileptic seizures from adolescence",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "p.Arg309Trp",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Predicted damaging; affects domain interacting with CDKL5.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "De novo variant; clinical features include psychomotor retardation and seizures. | Source: Main text Results",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Exome Sequencing in 200 Intellectual Disability/Autistic Patients: New Candidates and Atypical Presentations",
+        "author": "Valentino F, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "Patient #11",
+                    "Sex": "Female",
+                    "Age": "12 years",
+                    "Severity": "d",
+                    "Onset": "developmental delay",
+                    "Phenotype": "Craniofacial features (long face, smooth/long philtrum, strabismus, upslanting palpebral fissures).; hypotonia; bruxism; sialorrhea; corpus callosum hypoplasia; microcephaly",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "No IQ/severity reported; IA category set to d (insufficient information)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "whole exome sequencing",
+                    "ReferenceSequence": "hg19",
+                    "ReportedVariant": "c.976C>T (p.(Arg326Cys))",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "missense substitution",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Inheritance and zygosity not provided in table.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Familial cases and male cases with MECP2 mutations",
+        "author": "Zhang Q, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Family A II:1",
+                    "Sex": "Female",
+                    "Age": "8 years 8 months",
+                    "Severity": "Unknown",
+                    "Onset": "Sat 8 months; spoke simple words at 12 months; walked at 18 months; later regression of hand use and language.",
+                    "Phenotype": "Teeth grinding; EEG focal spike and slow waves; no seizures reported.",
+                    "FamilyHistory": "Non-consanguineous Chinese parents; mother carries same MECP2 mutation."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: Rett PSV diagnostic criteria (atypical Rett)",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.397C>T (p.R133C)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Hotspot MECP2 missense variant associated with PSV/atypical RTT.",
+                    "Inheritance": "Maternal",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "XCI of daughter 59:41 (random). EEG showed focal spike and slow waves in left temporal regions.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Classical Rett syndrome in sisters: variability of clinical expres",
+        "author": "Miyamoto A, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Twin B",
+                    "Sex": "Female",
+                    "Age": "32 years",
+                    "Severity": "d",
+                    "Onset": "Became unable to walk since two years ago.",
+                    "Phenotype": "Rett syndrome (RTT)",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Rett syndrome diagnosis without ASD-specific diagnostic confirmation; insufficient information on intellectual ability."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "single gene sequencing (MECP2)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.880C>T (p.Arg294Ter)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "loss-of-function",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "More severe phenotype than co-twin; severity linked to relatively higher activation of paternal X allele.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mutation analysis of the methyl-CpG-binding protein 2 gene ( MECP2 ) in Rett patients with preserved speech",
+        "author": "Yamashita Y, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 2",
+                    "Sex": "Female",
+                    "Age": "10 years",
+                    "Severity": "Unknown",
+                    "Onset": "Head control 3 months; sitting 8 months; rolling over 9 months; walked alone 15 months; first word 18 months; 8 words by 24 months.",
+                    "Phenotype": "EEG: right frontal spikes.",
+                    "FamilyHistory": "All the RTT patients screened in this study were sporadic."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "IQ 38 (Tanaka-Binet) at 5 years."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.991C>T (p.Arg306Cys)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "missense substitution at p.Arg306",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "Preserved speech variant of Rett syndrome.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            },
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 3",
+                    "Sex": "Female",
+                    "Age": "9 years",
+                    "Severity": "Unknown",
+                    "Onset": "Head control 4 months; rolling over 8\u20139 months; walked alone 15 months; 4\u20135 words at 18 months; 20 words by 24 months.",
+                    "Phenotype": "Epileptic seizures (from 7 years); breathing irregularities (from ~6 years); toe-walking; EEG/other not specified beyond seizures.",
+                    "FamilyHistory": "All the RTT patients screened in this study were sporadic."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "DQ 47 at 38 months; DQ 21 at 7 years 8 months."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.472C>T (p.Arg133Cys)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "missense substitution at p.Arg133",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "Preserved speech variant of Rett syndrome.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            },
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 5",
+                    "Sex": "Female",
+                    "Age": "21 years",
+                    "Severity": "Unknown",
+                    "Onset": "Head control 3 months; rolling over 5 months; sitting 7\u20138 months; walking alone 13 months; spoke three words at 18 months; two-word sentences at 24 months; eye contact became poor at 24 months.",
+                    "Phenotype": "Mild breathing abnormalities; scoliosis; abnormal EEG with right centrotemporal spikes at 60 months; epilepsy at 17 years; no microcephaly.",
+                    "FamilyHistory": "All the RTT patients screened in this study were sporadic."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.543_544delTC",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "frameshift resulting in premature termination; loss of TRD with intact MBD",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "Preserved speech variant of Rett syndrome; novel two-nucleotide deletion; milder speech and motor function reported.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Clinical profiles of four patients with Rett syndrome carrying a novel exon 1 mutation or genomic rearrangement in the MECP2 gene",
+        "author": "Bartholdi D, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 2",
+                    "Sex": "Female",
+                    "Age": "7 years",
+                    "Severity": "d",
+                    "Onset": "Did not learn to sit unaided; started to shuffle at 12 months; no words; severe locomotion disturbance; at 7 years walked a few steps with support.",
+                    "Phenotype": "Rett syndrome phenotype with severe motor impairment; microcephaly (head circumference <3rd centile by 24 months); feeding difficulties; underweight/short stature (<3rd centile); wheelchair-bound; epileptic seizures; mild scoliosis; disturbed awake breathing rhythm",
+                    "FamilyHistory": "Unaffected parents; alteration not detected in either parent"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using Kerr et al. 2001 clinical severity scoring for MECP2 cases; criteria: Revised clinical criteria for RTT (Hagberg et al., 2002)",
+                    "Cognition": "Kerr severity score 33/40 (Table 2); Intellectual disability: score 2 (Table 2)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "MLPA",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "Deletion of exons 1\u20132",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Loss of exons 1\u20132 likely abolishes N-terminus of both isoforms",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exons 1\u20132; predicted_null",
+                    "Note": "X-inactivation: clear skewing (93%:7%) with preferential activation of the maternal allele.",
+                    "EvidenceType": "De novo CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Inherited and multiple de novo mutations in autism/developmental delay risk genes suggest a multifactorial model",
+        "author": "Guo H, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "HN0072.p1",
+                    "Sex": "Female",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "Motor: no delay; Speech: delay present.",
+                    "Phenotype": "ASD diagnosis reported.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Intellectual disability status not available."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.46-2A>G",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "loss-of-function",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "canonical splice site; canonical acceptor (-2); predicted_null",
+                    "Note": "Source file: ST5 comprehensive evaluation of cases carrying de novo variants 1 in MED13L.xlsx; sheet: clinical data of cases with DNM",
+                    "EvidenceType": "De novo splice variant",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MECP2 Mutation in a Boy with Severe Neonatal Encephalopathy: Clinical, Neuropathological and Molecular Findings",
+        "author": "Geerdink N, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "case_001",
+                    "Sex": "Female",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "Not able to speak or to walk.",
+                    "Phenotype": "Rett syndrome; autistic features.; Intellectual disability; speech impairment; gait impairment.",
+                    "FamilyHistory": "Brother (index case) had severe neonatal encephalopathy and carried the same MECP2 mutation hemizygously; mother negative in blood and likely germline mosaic; another sister healthy."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Severity of intellectual disability not quantified; inability to speak or walk suggests severe to profound impairment, but not explicitly stated."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "single gene sequencing (direct sequencing) (MECP2 mutation analysis with direct sequencing; family testing as shown in Fig. 3c.)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.488_489del",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "loss-of-function (frameshift truncation)",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 3; predicted_null",
+                    "Note": "Sister is heterozygous carrier of the MECP2 488-489del; diagnosed with Rett syndrome with autistic features. Exact age and assessments not provided. File reference: Main text: Clinical findings; Molecular analysis; Fig. 3 caption.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Reduced MeCP2 Expression is Frequent in Autism Frontal Cortex and Correlates with Aberrant MECP2 Promoter Methylation",
+        "author": "Nagarajan RP, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "AUT B5342",
+                    "Sex": "Female",
+                    "Age": "11 y",
+                    "Severity": "d",
+                    "Onset": "A female autism sample (AUT B5342, 11 y) was determined to be heterozygous for a novel promoter variant (g.-1398T>C).",
+                    "Phenotype": "A female autism sample (AUT B5342, 11 y) was determined to be heterozygous for a novel promoter variant (g.-1398T>C).",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "g.-1398T>C",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "noncoding promoter variant; potential effect on transcription factor binding",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "promoter/upstream (~-1398 relative to +1 TSS); other",
+                    "Note": "Postmortem brain sample. Age appears as '11 y' in text and '1 y' in Table 1 (likely OCR error); text indicates 11 y. Family DNA unavailable for segregation analysis. File reference: Table 1 (Prefrontal cortex BA9); Figure 2 and associated sequencing paragraph; Fusiform gyrus table entry for B5342.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Case Report: De novo DDX3X mutation caused intellectual disability in a female with skewed X-chromosome inactivation on the mutant allele",
+        "author": "Sun Y, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "II.1 (proband)",
+                    "Sex": "Female",
+                    "Age": "10 years",
+                    "Severity": "a",
+                    "Onset": "Could not sit without support at 18 months; began to walk at 2 years; language level at 26 months equivalent to 12.7 months (Sym score: 5).",
+                    "Phenotype": "Delayed psychomotor development; poor speech development; behavior problems; sporadic spike-and-slow wave complexes on VEEG; brain MRI normal; abnormal cerebral blood flows in middle and anterior cerebral arteries on Doppler ultrasound.; Infantile hypotonia; mild to moderate intellectual disability.",
+                    "FamilyHistory": "without family history"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using Childhood Autism Rating Scale (CARS); Autistic Behavior Checklist (ABC)",
+                    "Cognition": "Mild to moderate intellectual disability reported; language level at 26 months equivalent to 12.7 months (Sym score: 5)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Trio-based whole-exome sequencing with Sanger validation (Parental phasing by SNP haplotypes indicating maternal X; AR assay showed maternal X predominantly inactive; RNA-seq in PBMCs showed allelic imbalance (wild:mut ~71:29).)",
+                    "ReferenceSequence": "NM_001193416.3",
+                    "ReportedVariant": "NM_001193416.3:c.694_711dup18 (p.Ala232_Pro237dup)",
+                    "GenomicCoords": "ChrX: 41,203,004-41,203,021",
+                    "Impact": "In-frame duplication of six amino acids in a conserved region; classified as likely pathogenic (ACMG 1PS + 2PM).",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "Exon 8; D1 domain region (between RNA and ATP binding sites); in_frame",
+                    "Note": "Extreme skewed X-chromosome inactivation with mutant allele on maternal X predominantly inactive; RNA allelic expression in PBMCs wild:mut ~71:29. ASD assessment scores: CARS=32; ABC=75.",
+                    "EvidenceType": "De novo CNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "A novel hypomorphic MECP2 point mutation is associated with a neuropsychiatric phenotype",
+        "author": "Adegbola AA, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Proband",
+                    "Sex": "Female",
+                    "Age": "10 years",
+                    "Severity": "a",
+                    "Onset": "Normal early development; slowing of motor skills and hypotonia began at 12 months without documented regression; purposeful hand movements with occasional hand-wringing stereotypies.",
+                    "Phenotype": "Nondysmorphic; macrocephaly; mild kyphosis; genu valgum; pes planus; hypotonia; fine motor impairment; abnormal EEG without seizures; obesity; behavioral dyscontrol and aggressive outbursts.; Mild intellectual disability; morbid obesity (BMI 35.7); abnormal EEG with multifocal sharp and spike wave discharges (no seizures observed); genu valgum (knock-knees); pes planus (flat feet); macrocephaly (~98th percentile head circumference); mild kyphosis; frequent episodic aggressive outbursts; hypotonia; fine motor dysfunction; perceptual-motor difficulties.",
+                    "FamilyHistory": "Father (46,XY) carries the same MECP2 c.454C>G (p.P152A) variant and has a history of behavioral dyscontrol, hyperactivity, anxiety, socialization and cognitive difficulties, and a learning disability; paternal grandmother reportedly has short stature, obesity, and cognitive problems (not genetically tested)."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "WISC-IV at 6y11m: FSIQ 70 (2nd %ile), Verbal 83 (13th), Perceptual Reasoning 69 (2nd), Working Memory 91 (27th), Processing Speed 56 (0.2nd). WISC-IV at 8y: FSIQ 58 (0.3rd), Verbal 81 (10th), Perceptual Reasoning 57 (0.2nd), Working Memory 65 (1st), Processing Speed 59 (0.3rd). BOT-2 fine motor composite 20 (<1st %ile). Koppitz developmental score at 8y7m: 10 (5th %ile)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Single-gene sequencing of MECP2 (coding regions and flanking splice sites) (Sanger sequencing of MECP2 coding regions and flanking splice sites; variant not observed in 100 control individuals; not reported in RettBASE at time of study.)",
+                    "ReferenceSequence": "NM_004992.2",
+                    "ReportedVariant": "NM_004992.2:c.454C>G (p.Pro152Ala)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Predicted probably damaging by PolyPhen; not tolerated by SIFT; approximately 40% reduction in heterochromatin binding compared to wild-type; disrupts MeCP2 functional activity.",
+                    "Inheritance": "Paternal",
+                    "FunctionalStudyOutcome": "{'assay': 'Heterochromatin binding in NIH 3T3 cells', 'result_summary': '~40% decrease in association with insoluble heterochromatin vs wild-type', 'interpretation': 'Functional impairment consistent with disrupted MeCP2 activity'}",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "Exon 4; methyl CpG-binding domain (MBD); missense",
+                    "Note": "X-inactivation in proband was random (57:43). EEG abnormal with multifocal sharp and spike wave discharges but no seizures. BMI 35.7. Head circumference tracked at ~98th percentile; described as macrocephalic with mild kyphosis in discussion.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Molecular diagnosis of 405 individuals with autism spectrum disorder",
+        "author": "Miyake N, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "16783",
+                    "Sex": "Female",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "ASD (DSM-5) cohort proband with MECP2 variant c.905C>G (p.(Pro302Arg)); de novo.",
+                    "Phenotype": "ASD (DSM-5) cohort proband with MECP2 variant c.905C>G (p.(Pro302Arg)); de novo.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: DSM-5",
+                    "Cognition": "No cognitive assessment information provided."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "NM_004992.4",
+                    "ReportedVariant": "c.905C>G (p.(Pro302Arg))",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "missense",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon; missense",
+                    "Note": "Source: ST2 Pathogenic Likely pathogenic variants in our ASD cohort.xlsx, Sheet1, row 45. Inheritance (in patient): XLD (de novo).",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "First report of an unusual novel double mutation affecting the transcription repression domain of MeCP2 and causing a severe phenotype of Rett syndrome: Molecular analyses and computational investigation",
+        "author": "Ghorbel R, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "case_001",
+                    "Sex": "Female",
+                    "Age": "4 years",
+                    "Severity": "b",
+                    "Onset": "Motor development delay; absence of language.",
+                    "Phenotype": "Typical Rett syndrome with stereotypic hand movements; progressive scoliosis.; Severe intellectual disability; infantile encephalopathy; epilepsy (onset at 12 months); sleep disorder; progressive scoliosis.",
+                    "FamilyHistory": "Non-consanguineous parents; one healthy sister; parents unaffected."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: Revised diagnostic criteria for typical Rett syndrome",
+                    "Cognition": "Severe ID is present; without A/B indicators for ASD, phenotype confidence remains medium."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "single gene sequencing (Sequencing of all four MECP2 exons and flanking exon-intron boundaries in proband and family members (Sanger); parental and sibling testing performed.)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.695G>T; c.880C>T (p.Gly232Val; p.Arg294Ter)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "p.R294X predicts truncation (loss-of-function); p.G232V predicted deleterious; both in TRD domain.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 4; transcriptional repression domain (TRD); other",
+                    "Note": "Two heterozygous de novo variants reported in exon 4 affecting the TRD domain; phase (cis/trans) not stated. Sources: Section 2.1 Patient; Section 3.1 Mutational analyses.",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Ef /uniFB01 cient strategy for the molecular diagnosis of intellectual disability using targeted high-throughput sequencing",
+        "author": "Redin C, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "APN-130",
+                    "Sex": "Female",
+                    "Age": "Unknown",
+                    "Severity": "b",
+                    "Onset": "Absence of speech.",
+                    "Phenotype": "Facial dysmorphic traits (narrow forehead, prominent cheeks, small and deep-set eyes, turned-up nose).; Behavioral disorders including hyperactivity; sleep disorders; overweight.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Severe ID with only autistic features mentioned; no formal ASD diagnostic criteria or gold-standard tools reported."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "NM_004992.3",
+                    "ReportedVariant": "c.916C>T (p.Arg306Cys)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "unknown",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon; missense",
+                    "Note": "Source file: SM1 description of all cases with molecular diagnosis.pdf; Sections: Figure S17; Patient APN-130 Clinical information.",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Novel de novo Nonsense Mutation of MECP2 in a Patient with Rett Syndrome",
+        "author": "Kim S, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "case_001",
+                    "Sex": "Female",
+                    "Age": "5 years",
+                    "Severity": "b",
+                    "Onset": "Regression in late second year; loss of purposeful hand movements; loss of speech; cognitive and language function less than one year in all areas.",
+                    "Phenotype": "Rett syndrome features with regression, stereotyped hand movements, severe ID; seizures; ataxia; spastic gait; absent microcephaly; normal respiration.; Rett syndrome; complex partial seizures (onset 22 months) treated with carbamazepine; mild ataxia; slightly spastic gait; no microcephaly; normal respiratory pattern.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Severe mental retardation; cognitive and language function less than one year in all areas."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.129C>T (p.Gln19Ter)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "loss-of-function",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "Moderately skewed X-chromosome inactivation (1.74:1) reported. No microcephaly; normal respiratory pattern. Fragile X ruled out; Angelman syndrome suspected but 15q11-q13 deletion not found and UPD not assessed.",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Three intellectual disability-associated de novo mutations in MECP2 identified by trioWES analysis",
+        "author": "Gu Y, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "case 2",
+                    "Sex": "Female",
+                    "Age": "8 years",
+                    "Severity": "d",
+                    "Onset": "Smiled at 3 months; sat steadily at 6 months; crawled and grasped at 12 months. At 24 months developed pincer grasp, independent stand, and responded to name; at 30 months began to babble and walked with abnormal gait.",
+                    "Phenotype": "Abnormal gait; normal brain MRI and AEP.; X-linked intellectual disability; psychomotor retardation; EEG with multifocal epileptic-like discharges (no clinical seizures).",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using Clancy Behavior Scale",
+                    "Cognition": "Intellectual disability reported without severity or standardized cognitive testing; ASD characterization noted as 'possible'."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Whole-exome sequencing (trio) with Sanger confirmation (De novo status confirmed by Sanger sequencing; variant absent in parents.)",
+                    "ReferenceSequence": "NM_004992.3",
+                    "ReportedVariant": "NM_004992.3:c.916C>T (p.(Arg306Cys))",
+                    "GenomicCoords": "ChrX: 153,296,363-153,296,363",
+                    "Impact": "Located within the transcriptional repression domain; recurrent allele in MECP2.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 4 (transcriptional repression domain); missense",
+                    "Note": "Sanger sequencing confirmed de novo status; EEG showed multifocal epileptic-like discharges without clinical seizures; brain MRI and AEP were normal.",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Identification of autism-related MECP2 mutations by whole-exome sequencing and functional validation",
+        "author": "Zhu W, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "P.548",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "First word at 26 months (language delay); walked independently at 16 months; onset before 2 years; diagnosed at 4 years.",
+                    "Phenotype": "Sensitive (parent report).; None reported",
+                    "FamilyHistory": "None of the three patients have familial history of psychiatric disorders or neuropathy."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using CARS; ABC; criteria: DSM-IV",
+                    "Cognition": "Dyslexia: Yes; Mathematics disorder: Yes"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "whole exome sequencing (Sanger sequencing confirmation)",
+                    "ReferenceSequence": "GRCh37/hg19; NM_004992",
+                    "ReportedVariant": "c.1162C>T (p.P376S)",
+                    "GenomicCoords": "ChrX: 153,296,153-153,296,153",
+                    "Impact": "Missense in TRD; authors\u2019 in vitro assays suggest MeCP2-P376S had no effect on dendritic growth and may increase axonal length.",
+                    "Inheritance": "Maternal",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 3; transcriptional repression domain (TRD); missense",
+                    "Note": "RTT excluded. Additional variant in CNTNAP2 (c.209G>C; p.G70A) inherited from unaffected father. Onset before 2 years, diagnosed at 4 years.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Whole genome sequencing resource identifies 18 new candidate genes for autism spectrum disorder",
+        "author": "Yuen R, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "AU078503",
+                    "Sex": "Unknown",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "Unknown",
+                    "Phenotype": "Unknown",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.1200_1243del",
+                    "GenomicCoords": "ChrX: 153,296,070-153,296,115",
+                    "Impact": "Unknown",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "other",
+                    "Note": "ID pattern mismatch noted. Source: ST5 damaging variants in ASD risk genes_TCF20 was not included.xlsx | Sheet: Table S5 | Row: 16 | Merge keys: AU078503,MECP2,c.1200_1243del",
+                    "EvidenceType": "De novo CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Five Novel Frameshift Mutations in Exon 3 and 4 of the MECP2 Gene Identified in Rett Patients: Consequences for the Molecular Diagnosis Strategy",
+        "author": "Bienvenu T, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "case_001",
+                    "Sex": "Female",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "This patient presented a typical form of RTT syndrome with microcephaly, loss of purposeful use of hands, jerky truncal ataxia, gait apraxia, no language and autism. This mutation was not present in her mother.",
+                    "Phenotype": "Typical RTT syndrome; microcephaly; jerky truncal ataxia; gait apraxia; loss of purposeful hand use; no language; autism; Microcephaly",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "DGGE screening and Sanger sequencing confirmation",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "345delC",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Frameshift leading to premature stop codon after 8 missense amino acid changes.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 3; MBD domain; predicted_null",
+                    "Note": "X-inactivation pattern reported as random 57:43 in Table 1. Source: Results and Discussion; Table 1",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "De novo genic mutations among a Chinese autism spectrum disorder cohort",
+        "author": "Wang T, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "SHANK1",
+                    "ID": "M23139",
+                    "Sex": "Female",
+                    "Age": "Unknown",
+                    "Severity": "a",
+                    "Onset": "motor delay; speech delay",
+                    "Phenotype": "Typical regression; Walk pigeon; EEG abnormal; regression (typical); sleep problems; premature birth; C-section; abnormal gait",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: DSM-IV",
+                    "Cognition": "Intellectual disability: Moderate"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "whole exome sequencing (Reads mapped to hg19 using BWA-MEM (Methods).)",
+                    "ReferenceSequence": "GRCh37/hg19",
+                    "ReportedVariant": "c.2458+1G>A",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "likely gene-disruptive",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "canonical splice site; donor (+1 position); predicted_null",
+                    "Note": "Splice-site variant at +1; EEG abnormal; premature birth and C-section reported. File reference: Table 3; Discussion; Methods.",
+                    "EvidenceType": "De novo splice variant",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Transcriptome and Genome Analysis Uncovers a DMD Structural Variant",
+        "author": "Folland C, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "case_001",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "a",
+                    "Onset": "First walked at 18\u201320 months; could walk fast but never ran; used Gowers' maneuver; frequent falls; fatigue.",
+                    "Phenotype": "Delayed motor development; frequent falls; fatigability; Gowers' maneuver; Duchenne muscular dystrophy; dystrophinopathy",
+                    "FamilyHistory": "There was no relevant family history."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "IQ and language within normal limits."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Whole genome sequencing with targeted long-read sequencing (Short-read genome sequencing (SRS) detected a 216 kb paracentric inversion; muscle RNA-seq guided detection; targeted Oxford Nanopore long-read sequencing (LRS) confirmed inversion and sized DIP2B repeat expansion.)",
+                    "ReferenceSequence": "GRCh38",
+                    "ReportedVariant": "NC_000023.11:g.33162217_33378800inv",
+                    "GenomicCoords": "ChrX: 33,162,217-33,378,800",
+                    "Impact": "Complete absence of dystrophin on muscle immunostaining; DMD underexpression (Z = -7.43); DIP2B overexpression (Z = 6.14); no hypermethylation of the expanded DIP2B allele in blood.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "promoter; other",
+                    "Note": "Single proband case report with DMD paracentric inversion and a DIP2B 5' UTR CGG repeat expansion. Authors note uncertainty regarding the clinical significance of the DIP2B expansion; blood methylation of the expanded allele was not increased. Results section states IQ and language within normal limits despite abstract/intro mention of mild intellectual disability. File reference: Main text: Abstract; Results; Discussion; Figure 3B.",
+                    "EvidenceType": "Genetic variant",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Phenotypic and Genotypic Variability in Four Males With MECP2 Gene Sequence Aberrations Including a Novel Deletion",
+        "author": "Psoni S, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 1",
+                    "Sex": "Male",
+                    "Age": "11 y at genetics evaluation; 14 y follow-up",
+                    "Severity": "Unknown",
+                    "Onset": "Normal development until 18 months, then regression of acquired skills including speech.",
+                    "Phenotype": "Mental retardation; hyperactivity; attention-deficit disorder; obesity; no seizures; recurrent otitis media and urinary tract infections.",
+                    "FamilyHistory": "Parents were nonconsanguineous and of normal intelligence; maternal DNA normal sequence (no MECP2 variant detected)."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "DNA sequencing (method not specified)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.316C>T (p.Arg106Trp (R106W))",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Classic RTT-associated mutation reported to impair MeCP2 function; somatic mosaicism likely attenuates phenotype in this male.",
+                    "Inheritance": "Mosaic",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 3; methyl-binding domain (MBD); missense",
+                    "Note": "Somatic mosaicism supported by two peaks at the variant site in leukocyte DNA and absence in hair roots; extra X chromosome excluded by karyotype. Discussion section also lists c.916 C>T for R106W, likely a typographical discrepancy.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "SHANK1 Deletions in Males with Autism Spectrum Disorder",
+        "author": "Sato D, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "SHANK1",
+                    "ID": "Family 1 III-5",
+                    "Sex": "Male",
+                    "Age": "25 years at ADI-R/ADOS; 32 years current",
+                    "Severity": "a",
+                    "Onset": "Single words at 24 months; phrases by 36 months; parents first concerned at 12\u201324 months",
+                    "Phenotype": "Poor eye contact; lacked joint attention and empathy; repetitive play and speech in early childhood; Anxiety disorder; treated with olanzapine and paroxetine",
+                    "FamilyHistory": "Multigenerational family with SHANK1 deletion; also present in males I-1, IV-1, IV-3 and females II-4, III-2."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using ADI-R; ADOS-4; Leiter-R; OWLS; VABS-I",
+                    "Cognition": "Leiter-R NVIQ 83 (13th %ile; LA); OWLS TL 68 (2nd %ile; delay); VABS-I ABC 52 (<1st %ile), COM 43 (<1st %ile), DLS 63 (1st %ile), SOC 65 (1st %ile)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "microarray (CNV) and breakpoint sequencing (63.8 kb deletion; breakpoints mapped by Sanger sequencing across junctions.)",
+                    "ReferenceSequence": "hg18",
+                    "ReportedVariant": "chr19:g.55872189_55935995del",
+                    "GenomicCoords": "Chr19: 55,872,189-55,935,995",
+                    "Impact": "Haploinsufficiency of SHANK1; removes exons 1-20",
+                    "Inheritance": "Inherited",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exonic (SHANK1 exons 1-20) and neighboring CLEC11A; predicted_null",
+                    "Note": "Deletion validated by breakpoint sequencing; co-segregating PCDHGA11 Tyr313* nonsense variant on 5q31.3 reported in family 1. Sources: Main text (Results); Table 1; Figure 1; Figure 2.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Two affected boys in a Rett syndrome family",
+        "author": "Villard L, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient III-3",
+                    "Sex": "Female",
+                    "Age": "17 years",
+                    "Severity": "Unknown",
+                    "Onset": "Later slowing of head growth; loss of purposeful hand skills between 6 and 30 months; diagnosis tentative until age 2\u20135 years.",
+                    "Phenotype": "Apparent severe psychomotor retardation.; No epilepsy; no vasomotor disturbances of the lower limbs.",
+                    "FamilyHistory": "Two brothers (III-2 and III-4) died in infancy from severe encephalopathy; mother (II-2) is a carrier of the T158M mutation with completely skewed X-chromosome inactivation; mutation absent in other tested relatives (I-1, I-2, II-1, III-1)."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: International criteria for Rett syndrome",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "single gene sequencing (SSCP screening followed by Sanger sequencing and NlaIII restriction digest confirmation)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "p.T158M (p.T158M)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Missense substitution T158M in MECP2; detected by SSCP, sequencing, and restriction digest (NlaIII).",
+                    "Inheritance": "Maternal",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Missing Rett criterion: absence of gait apraxia and truncal apraxia/ataxia between ages 1 and 4 years. No epilepsy or vasomotor disturbances of the lower limbs reported.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Autism spectrum disorders are prevalent among patients with dystrophinopathies",
+        "author": "Fujino H, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "11",
+                    "Sex": "Unknown",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "ASD reported; point mutation mentioned with no further information (method uninformed).",
+                    "Phenotype": "Dystrophin immunostaining negative; Intellectual disability",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Intellectual disability present (severity not specified)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Uninformed",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "DMD point mutation (unspecified)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Point mutation reported in DMD; no cDNA/protein details provided.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exonic (unspecified); other",
+                    "Note": "Intellectual disability reported.",
+                    "EvidenceType": "Genetic variant",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Autistic-like Behaviors Associated with a Novel Non-Canonical Splice-Site DDX3X Variant: A Case Report of a Rare Clinical Syndrome",
+        "author": "Stefaniak U, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "case_001",
+                    "Sex": "Female",
+                    "Age": "7 years",
+                    "Severity": "d",
+                    "Onset": "Delayed psychomotor development; speech delay; motor skills measurable via ICF-CY (able to walk stairs, jump, kick a ball).",
+                    "Phenotype": "Nonverbal; stereotypies; sensory processing dysfunction (tactile defensiveness); sleep disturbance; high pain threshold; temperature dysregulation; right temporal arachnoid cyst; delayed myelination; spinal asymmetry.; Celiac disease; right temporal arachnoid cyst; slight delayed myelination; spinal asymmetry (scoliometer 10\u00b0 thoracolumbar, 5\u00b0 cervicothoracic); sleep disturbance; high pain threshold; temperature dysregulation.",
+                    "FamilyHistory": "No genetic conditions in the family; no children with IDD beyond the second generation; no epilepsy."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using Vineland Adaptive Behavior Scales, Third Edition (Vineland-III) Comprehensive Parent/Caregiver Form; ICF-CY (motor function assessment)",
+                    "Cognition": "Vineland-III: Adaptive Behavior Composite 49 (Low); Communication Standard Score 27 (Low); Daily Living 57 (Low); Socialization 46 (Low); Motor 74 (Moderately Low)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "NM_001356.4",
+                    "ReportedVariant": "NM_001356.4:c.45+12G>A",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "In-silico analyses suggest splicing impact; likely deleterious; absent in gnomAD.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "intron (non-canonical splice site, +12 from donor of exon 1); Non-canonical splice-site (+12); predicted to alter SR protein binding (ESE-Finder v3.0).; other",
+                    "Note": "Paternal DNA not available. DDX3X variant classified as VUS at time of testing; in-silico suggests splicing impact. Additional HSD17B4 VUS were in cis and maternally inherited; Perrault syndrome ruled out. First reported Polish individual with DDX3X-associated disorder in this paper.",
+                    "EvidenceType": "De novo splice variant",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Biophysical classification of a CACNA1D de novo mutation as a high-risk mutation for a severe neurodevelopmental disorder",
+        "author": "Hofer NT, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "CACNA1D",
+                    "ID": "DECIPHER_262954",
+                    "Sex": "Male",
+                    "Age": "13 years",
+                    "Severity": "Unknown",
+                    "Onset": "Delayed speech and language development; global developmental delay.",
+                    "Phenotype": "Severe neurodevelopmental phenotype; delayed speech and language; global developmental delay; self-injurious behaviors.; Severe neurodevelopmental disorder; self-injurious behaviors. Additional features (tall stature, undescended testes, seizures at age two without recurrence, ADHD-like symptoms, facial dysmorphism) reported for one twin only; not assignable to a specific ID.",
+                    "FamilyHistory": "Monozygotic twins; described as de novo in the proband; parents unaffected."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "hg19; NM_001128839",
+                    "ReportedVariant": "chr3:g.53757881C>T (p.Ser652Leu)",
+                    "GenomicCoords": "Chr3: 53,757,881-53,757,881",
+                    "Impact": "Gain-of-function gating changes; negative shift of activation and inactivation, increased window current; increased sensitivity to isradipine.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "{'summary': 'Electrophysiological characterization indicates gain-of-function with negative shift of activation/inactivation, increased window current, and increased sensitivity to isradipine.'}",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Both twins also carried a KIF22 frameshift (c.1934_1935insG (p.Glu646GlyfsTer), chr16: 29816479 T>TG, hg19), which the authors argue is unlikely to explain the neurodevelopmental phenotype. Additional features (tall stature, undescended testes, seizures at age 2 without recurrence, ADHD-like symptoms, facial dysmorphism) were reported for only one twin; the paper does not specify which DECIPHER ID. Source location: Results section.",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mutations in Epilepsy and Intellectual Disability Genes in Patients with Features of Rett Syndrome",
+        "author": "Olson HE, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 4",
+                    "Sex": "Unknown",
+                    "Age": "32 years",
+                    "Severity": "Unknown",
+                    "Onset": "Of the three patients with classical RTT, two had mutations in MECP2 (Table I). Patient 4 had had repeat MECP2 sequencing in a research setting and later documented in the clinical record, not known to us at the time of enrollment; single-gene sequencing in the past and exome sequencing in this study identified the presumed de novo mutation MECP2 c.316C>T (p.Arg106Trp).",
+                    "Phenotype": "Classical Rett syndrome; epilepsy (onset 4 years)",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: Rett syndrome 2010 criteria (Neul et al., 2010)",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Prior single-gene MECP2 sequencing and exome sequencing in this study",
+                    "ReferenceSequence": "NM_004992",
+                    "ReportedVariant": "NM_004992:c.316C>T (p.Arg106Trp)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Established pathogenic missense mutation",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Classical RTT. Epilepsy onset 4 years per Table Ia.",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Case Report: Lennox -Gastaut Epileptic Encephalopathy Responsive to Cannabidiol Treatment Associated With a Novel de novo Mosaic SHANK1 Variant",
+        "author": "Paprocka J, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "SHANK1",
+                    "ID": "Proband",
+                    "Sex": "Male",
+                    "Age": "11 years",
+                    "Severity": "Unknown",
+                    "Onset": "Global developmental delay; at age 2 not able to walk independently or communicate verbally; later counts to 10, knows a few letters, follows simple commands.",
+                    "Phenotype": "Lennox-Gastaut syndrome; refractory epilepsy (seizure freedom on cannabidiol); generalized hypotonia; status epilepticus (twice, responsive to IV benzodiazepines); head circumference 52 cm (10th centile); EEG: generalized paroxysmal changes with slow spike-and-wave complexes (<3 Hz)",
+                    "FamilyHistory": "negative family history for neurodevelopmental disorders"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Moderate intellectual disability."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "whole exome sequencing (WES) with confirmation by amplicon deep sequencing (ADS) (WES aligned to hg38; variant detected at ~21% of reads; ADS confirmed de novo mosaicism at ~19% (N=7995 reads).)",
+                    "ReferenceSequence": "GRCh38; NM_016148.5",
+                    "ReportedVariant": "NM_016148.5:c.376G>C (p.Gly126Arg)",
+                    "GenomicCoords": "Chr19: 50,716,358-50,716,358",
+                    "Impact": "Absent from population databases; in silico analyses indicate deleterious effect on protein structure and interactions.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "N-terminal domain; missense",
+                    "Note": "Lennox-Gastaut epileptic encephalopathy with polymorphic seizures beginning at age 2; refractory epilepsy markedly responsive to cannabidiol with >4 years seizure freedom; generalized hypotonia; normal MRI and metabolic workup; head circumference 52 cm (10th centile).",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Neurodevelopmental disorders in males related to the gene causing Rett syndrome in females ( MECP 2)",
+        "author": "Moog U, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Case 1",
+                    "Sex": "Male",
+                    "Age": "9 years",
+                    "Severity": "Unknown",
+                    "Onset": "Classical RTT phenotype.",
+                    "Phenotype": "Classical RTT phenotype.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.473C>T (p.Thr158Met)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "missense substitution in methyl-CpG binding domain",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "MBD; missense",
+                    "Note": "Karyotype 47,XXY/46,XY. Source location: Table 1.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Identification of De Novo JAK2 and MAPK7 Mutations Related to Autism Spectrum Disorder Using Whole-Exome Sequencing in a Chinese Child and Adolescent Trio-Based Sample",
+        "author": "Jiao J, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "CACNA1D",
+                    "ID": "A18",
+                    "Sex": "Unknown",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "\"These mutation sites were as follows: ACHE (c.G1165A: p. E389K); TMUB2 (c.G112A: p. V38I); YY1 (c.G961A: p. G321S); AOC1 (c.C1687T: p. R563C); PRAG1 (c.C2783T: p. S928F); KIF15 (c.T796A: p. L266I; c.G832A: p. E278K); JAK2 (c.G649C: p. V217L); MAPK7 (c.C709T: p. R237C); RNF31 (c.C1624T: p. R542C); CACNA1D (c.C4127T: p. T1376M); C1GALT1 (c.T620C: p. M207T); QSER1 (c.C2788G: p. L930V); CELSR3 (c.C1865T: p. A622V); ZNF276 (c.G584T: p. C195F); VPS9D1 (c.G742C: p. D248H); ADGRL3 (c.T4075C: p. F1359L); WDR63 (c.C764T: p. T255M); PRKAG2 (c.C221T: p. P74L); MCMDC2 (c.T1532C: p. L511P); AASDH (c.G638T: p. R213L); TTN (c.G26999A: p. R9000H); FBXO11 (c.G2335A: p. A779T); HIST1H2AG (c.G245C: p. R82P); ZNF512 (c.C1069T: p. P357); HIPK1 (c.G81C: p. E27D); and EXTL3 (c.G1504A: p. D502N).\"",
+                    "Phenotype": "None reported",
+                    "FamilyHistory": "parents with no other relatives diagnosed with ASD within three family generations"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using ADI-R; ADOS; criteria: DSM-V",
+                    "Cognition": "Insufficient information on intellectual ability (IA 'd')"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "GRCh37/hg19",
+                    "ReportedVariant": "c.C4127T (p.T1376M)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Predicted damaging by SIFT and MutationTaster; conserved by gerp++gt2.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Trio-based WES with Sanger validation of de novo SNVs",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Association of Duchenne Muscular Dystrophy With Autism Spectrum Disorder",
+        "author": "Wu JY, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "Patient 7",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "Unknown",
+                    "Onset": "Patient 7 | No dystrophin | Exon 45 | ASD/PDD in brother | 8 yr (by PCR) | < 11 yr",
+                    "Phenotype": "Duchenne muscular dystrophy",
+                    "FamilyHistory": "ASD/PDD in brother"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: DSM-IV",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "PCR-based deletion testing",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "DMD exon 45 deletion (PCR)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Dystrophin gene (DMD) deletion involving exon 45 detected by PCR; muscle biopsy showed no dystrophin.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 45; other",
+                    "Note": "Muscle biopsy showed no dystrophin. ASD/PDD diagnosed by pediatric neurologist using DSM-IV criteria. Dystrophin deletion detected by PCR. File reference: Table 2.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Copy number variation in Han Chinese individuals with autism spectrum disorder",
+        "author": "Gazzellone MJ, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "567-3",
+                    "Sex": "Male",
+                    "Age": "6-year-old",
+                    "Severity": "d",
+                    "Onset": "\u201cThe second proband (567-3), an autistic 6-year-old male with abnormal muscular development, has a deletion of 154 kb which overlaps exons 46-50. In both cases, the deletion is predicted to cause a frameshift leading to a premature stop and loss of dystrophin.\u201d",
+                    "Phenotype": "abnormal muscular development",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using ABC; CARS",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "hg19",
+                    "ReportedVariant": "ChrX:31,805,650-31,959,887",
+                    "GenomicCoords": "ChrX: 31,805,650-31,959,887",
+                    "Impact": "Frameshift and loss of dystrophin predicted.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "Xp21.1; Exons 46-50 deleted; predicted_null",
+                    "Note": "Abnormal muscular development.",
+                    "EvidenceType": "De novo CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Genetic Testing in Patients with Neurodevelopmental Disorders: Experience of 511 Patients at Cincinnati Children's Hospital Medical Center",
+        "author": "Du X, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 18",
+                    "Sex": "Female",
+                    "Age": "1 year",
+                    "Severity": "Unknown",
+                    "Onset": "Autism spectrum disorder, global developmental delay. MECP2 pathogenic missense variant.",
+                    "Phenotype": "global developmental delay",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "NM_004992.3",
+                    "ReportedVariant": "NM_004992.3:c.473C>T (p.Thr158Met)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Pathogenic MECP2 variant (Rett spectrum-associated)",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Reported pathogenic; associated with Rett syndrome spectrum. Source: Table 2 (Patient ID 18)",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Genomic diagnosis for children with intellectual disability and/or developmental delay",
+        "author": "Bowling KM, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "00003-C",
+                    "Sex": "Female",
+                    "Age": "14 years",
+                    "Severity": "b",
+                    "Onset": "Speech delay reported.",
+                    "Phenotype": "Autism, stereotypic behaviors, speech delay, seizures, severe ID, Rett-like features.; Severe intellectual disability and seizures; Rett-like features.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Severe ID with limited ASD diagnostic detail; confidence downgraded (indicator E only)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "whole exome sequencing (RNA studies (qPCR/Sanger) demonstrated cryptic acceptor usage causing frameshift (p.R9fs24X).)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.27-6C>G (p.R9fs24X)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Frameshift leading to truncated protein.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "Splice acceptor region of intron 2 (-6 position).; Cryptic splice acceptor used; +5 nt insertion into mRNA causes frameshift.; predicted_null",
+                    "Note": "Identical variant previously reported de novo in Rett; inheritance not explicitly stated for this proband. Source: Main text - Results: Alternative mechanisms of disease",
+                    "EvidenceType": "Splice variant",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Rett Syndrome in Adolescent and Adult Females: Clinical and Molecular Genetic Findings",
+        "author": "Smeets E, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Case 6",
+                    "Sex": "Female",
+                    "Age": "17 years",
+                    "Severity": "d",
+                    "Onset": "Onset at 10 months.",
+                    "Phenotype": "Classical RTT; acute onset; wasting.; Breathing irregularities (hyperventilation); severe scoliosis (operated); epilepsy (score 1).",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: Rett syndrome clinical diagnosis.",
+                    "Cognition": "Insufficient information on intellectual ability/IQ."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Southern blot (Large deletion encompassing exon 3 and most of exon 4 detected only by Southern blot.)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "gross rearrangement (large deletion)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Large deletion likely loss-of-function.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "Deletion: exon 3 and most of exon 4; predicted_null",
+                    "Note": "Large deletion identified by Southern blot; deletion encompassing exon 3 and most of exon 4. RTT_score1=26; RTT_score2=13. Source: Table I; Table II; Discussion; Introduction.",
+                    "EvidenceType": "Genetic variant",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Expansion of Clinical and Genetic Spectrum of DDX3X Neurodevelopmental Disorder in 23 Chinese Patients",
+        "author": "Dai Y, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "Female 19",
+                    "Sex": "Female",
+                    "Age": "3y",
+                    "Severity": "Unknown",
+                    "Onset": "Age at walking: No",
+                    "Phenotype": "tone abnormalities: Normal; intellectual disability/developmental delay; absence seizures; delayed myelination; hypothyroidism; feeding difficulties; constipation",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using SCQ-Lifetime (score: 14)",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "GRCh37/hg19; NM_001193416.2",
+                    "ReportedVariant": "NM_001193416.2:c.620_626dup (p.(His209Glnfs*88))",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Frameshift leading to premature stop (loss of function)",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "Unknown",
+                    "EvidenceType": "De novo CNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Dystrophin genetic variants and autism",
+        "author": "Passos-Bueno MR, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "P4",
+                    "Sex": "Male",
+                    "Age": "8 yo (at last evaluation)",
+                    "Severity": "Unknown",
+                    "Onset": "Walking at 18 months with frequent falls; global hypotonia by age 3.",
+                    "Phenotype": "Duchenne muscular dystrophy; intellectual disability.",
+                    "FamilyHistory": "Triplet; brothers P5 (DMD+ASD) and P6 (ASD without DMD)."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using CARS; Vineland",
+                    "Cognition": "Low adaptive behavior (Vineland 44)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "NM_000109",
+                    "ReportedVariant": "NM_000109:c.64_69+16del (NP_000100:p.Lys22_Ser23del)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Possibly disrupts all full-length Dp427 isoforms but not shorter isoforms.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 2/intron boundary; in_frame",
+                    "Note": "Conceived by IVF. Walked at 18 months with frequent falls; global hypotonia at 3 years.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Targeted sequencing and functional analysis reveal brain-size-related genes and their networks in autism spectrum disorders",
+        "author": "Li J, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "case_004",
+                    "Sex": "Unknown",
+                    "Age": "Unknown",
+                    "Severity": "Unknown",
+                    "Onset": "ASD proband from the Han Chinese cohort with a de novo stop-gain (c.844C>T; p.R282X) in MECP2; macrocephaly reported among Chinese MECP2 DNM probands.",
+                    "Phenotype": "macrocephaly",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "hg19; NM_001110792",
+                    "ReportedVariant": "c.844C>T (p.R282X)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "loss-of-function (stop-gain)",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "DNM validated by Sanger sequencing; macrocephaly reported for Chinese probands with MECP2 DNMs. | Source: Main text Table 1; Results - De novo mutations and X-linked variations",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Ocular and neurodevelopmental features of Duchenne muscular dystrophy: a signature of dystrophin function in the central nervous system",
+        "author": "Ricotti V, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "Individual 6",
+                    "Sex": "Male",
+                    "Age": "10 years",
+                    "Severity": "a",
+                    "Onset": "Deletion exons 8 - 13; SCDC = 16; Inattention, internalising behavioural problems and ASD; GAI 83.",
+                    "Phenotype": "inattention; internalising behavioural problems; emotional problems",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using SCDC (score: 16)",
+                    "Cognition": "GAI 83 (WISC-IV truncated)"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "MLPA (Cohort DMD diagnosis confirmed by out-of-frame mutation detection using multiplex ligation-dependent probe amplification (MLPA).)",
+                    "ReferenceSequence": "LRG_199t1",
+                    "ReportedVariant": "DMD: exons 8-13 deletion",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Deletion affecting Dp427 isoform; cohort diagnosis confirmed by out-of-frame mutation detection via MLPA.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exons 8-13; other",
+                    "Note": "A 5\u2032-end mutation case noted to have an ERG profile and neurocognitive/ASD features comparable to 3\u2032-end cases.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Truncating variants in the SHANK1 gene are associated with a spectrum of neurodevelopmental disorders",
+        "author": "May HJ, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "SHANK1",
+                    "ID": "Individual 5",
+                    "Sex": "Male",
+                    "Age": "10y9m",
+                    "Severity": "d",
+                    "Onset": "Walked at 20 months; babbled at ~10 months; first words at ~5 years; occasional single words by 10 years.",
+                    "Phenotype": "Macrocephaly; pronounced cupid's bow; pes planus; soft, doughy skin; joint laxity; GERD.; Intellectual disability; anxiety; tic (head jerk); anger outbursts; self-biting.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "hg19; NM_016148.5",
+                    "ReportedVariant": "NM_016148.5:c.4496_4499del (p.Gln1499fs)",
+                    "GenomicCoords": "Chr19: 51,170,717-51,170,717",
+                    "Impact": "Frameshift deletion predicted to truncate SHANK1; de novo; absent from gnomAD.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "Unknown",
+                    "EvidenceType": "De novo CNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "The spectrum of phenotypes in females with Rett Syndrome",
+        "author": "Huppke P, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Case 3 (Patient III)",
+                    "Sex": "Female",
+                    "Age": "7 years (first presentation)",
+                    "Severity": "Unknown",
+                    "Onset": "Smiled at 3 months; sat at 7 months; stood unsupported at 12 months; walked at age 2 years.",
+                    "Phenotype": "Electrical status epilepticus during sleep (ESES); borderline microcephaly (OFC 3rd percentile).",
+                    "FamilyHistory": "Patient III was born after an uneventful pregnancy into a healthy family."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "880-884 deletion",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Deletion reported across nucleotides 880\u2013884 of MECP2; exact HGVS c. notation not provided.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "other",
+                    "Note": "RTT with ESES and diagnosis of infantile autism.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Comprehensive Genetic Analysis of Non-syndromic Autism Spectrum Disorder in Clinical Settings",
+        "author": "Ohashi K, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "ASD-097",
+                    "Sex": "Female",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "Patient ASD-097 showed a de novo heterozygous DDX3X variant (c.1502C > A; p.Ala501Glu), located in the HELICc domain, and function abnormality of this domain causes ASD (Snijders Blok et al. 2015). We recruited patients diagnosed with ASD according to the fifth version of the Diagnostic and Statistical Manual of Mental Disorders criteria (APA 2013).",
+                    "Phenotype": "Patient ASD-097 showed a de novo heterozygous DDX3X variant (c.1502C > A; p.Ala501Glu), located in the HELICc domain, and function abnormality of this domain causes ASD (Snijders Blok et al. 2015). We recruited patients diagnosed with ASD according to the fifth version of the Diagnostic and Statistical Manual of Mental Disorders criteria (APA 2013).",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using CARS (Tokyo version); criteria: DSM-5",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "trio whole exome sequencing",
+                    "ReferenceSequence": "GRCh37/hg19",
+                    "ReportedVariant": "c.1502C>A (p.Ala501Glu)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Located in HELICc domain; functional abnormality of this domain causes ASD.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Unknown",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Rett syndrome from quintuple and triple deletions within the MECP 2 deletion hotspot region",
+        "author": "Lebo RV, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Propositus 2",
+                    "Sex": "Female",
+                    "Age": "6 years",
+                    "Severity": "Unknown",
+                    "Onset": "Spoke at least two words at 1 year; walked at 15 months; later language stagnation.",
+                    "Phenotype": "Impaired balance; Hypertonicity; Breathing difficulties including hyperventilation; Abnormal EEG consistent with seizure disorder; Dystonia; Suspected atonic seizures at night; Bruxism; Microcephaly (HC 2nd percentile)",
+                    "FamilyHistory": "Mother had breast cancer; conceived by IVF; high-resolution karyotypes of proband and parents normal."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "single gene sequencing (PCR amplification and sequencing of MECP2 exon 4; both normal and shorter deleted PCR products detected)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "Exon 4 triple deletion: 1050del15; 1087del28; 1137del70 (total \u2212113 bp); frameshift with premature stop yielding a 364 aa protein",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Frameshift leading to truncated protein (486 aa \u2192 364 aa).",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "Exon 4 (3' downstream region); predicted_null",
+                    "Note": "PCR showed predominant amplification of the shorter deleted allele with minor normal-length product; both parents tested normal at the Rett locus, consistent with a de novo event.",
+                    "EvidenceType": "De novo CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Role of a conserved glutamine in the function of voltage-gated Ca 2 \u00f7 channels revealed by a mutation in human CACNA1D",
+        "author": "Garza-Lopez E, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "CACNA1D",
+                    "ID": "proband",
+                    "Sex": "Male",
+                    "Age": "4.5 years (at reassessment), 5 years (hearing assessment)",
+                    "Severity": "d",
+                    "Onset": "developmental delay (did not speak, limited comprehension), hearing impairment (failed hearing at birth), epilepsy (seizures from 4 months)",
+                    "Phenotype": "epilepsy, hearing loss, developmental delay; hearing impairment, epilepsy, intellectual disability",
+                    "FamilyHistory": "father had a history of febrile seizures since childhood; parents are first cousins"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "intellectual disability (ID)"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "whole exome sequencing (trio sequencing, filtered for homozygous variants in consanguineous family)",
+                    "ReferenceSequence": "GRCh37; NM_000720.3",
+                    "ReportedVariant": "NM_000720.3:c.1701G>C (NP_000711.1:p.Gln567His)",
+                    "GenomicCoords": "Chr3: 53,756,476-53,756,476",
+                    "Impact": "Significant reduction in Cav1.3 current density and suppressed voltage-dependent inactivation; likely impairment in trafficking of Cav1.3 to the cell surface.",
+                    "Inheritance": "Inherited",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "extracellular S1-S2 loop of domain II; missense",
+                    "Note": "Also carries a homozygous OTOG c.4439C>T (p.Thr1480Ile) variant, likely relevant to hearing loss. Homozygous for CACNA1D variant due to consanguinity.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Pathogenic DDX3X mutations impair RNA metabolism and neurogenesis during fetal cortical development",
+        "author": "Lennox AL, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "3440-0",
+                    "Sex": "Unknown",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "Unknown",
+                    "Phenotype": "Unknown",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "No IQ/cognitive testing details provided; IA category set to 'd'."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.71C>A (p.Ser24*)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "predicted loss-of-function",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon; predicted_null",
+                    "Note": "Unknown",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            },
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "3480-0",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "Unknown",
+                    "Phenotype": "ADHD",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "No IQ/cognitive testing details provided; IA category set to 'd'."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.1105A>G (p.Thr369Ala)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "unknown",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon; missense",
+                    "Note": "Unknown",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            },
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "2839-0",
+                    "Sex": "Unknown",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "Unknown",
+                    "Phenotype": "Unknown",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "No IQ/cognitive testing details provided; IA category set to 'd'."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.1126C>T (p.Arg376Cys)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "unknown",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon; missense",
+                    "Note": "Unknown",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Comorbidities associated with genetic abnormalities in children with intellectual disability",
+        "author": "Chen JS, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Case 47",
+                    "Sex": "Unknown",
+                    "Age": "Unknown",
+                    "Severity": "Unknown",
+                    "Onset": "Table 3. Nucleotide variation/CNV abnormality list in 14 patients with autistic spectrum disorder.\n47 | X:153296495 C>T, c.820C>T | MECP2",
+                    "Phenotype": "Developmental delay/intellectual disability",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: DSM-V",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.820C>T",
+                    "GenomicCoords": "ChrX: 153,296,495-153,296,495",
+                    "Impact": "SNV reported in ASD patient; protein effect not stated.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "other",
+                    "Note": "SNV in MECP2; inheritance and zygosity not reported; protein consequence not provided.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Genome sequencing detects a balanced pericentric inversion with breakpoints that impact the DMD and upstream region of POU3F4 genes",
+        "author": "Chandrasekhar A, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "Affected maternal half-brother",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "Unknown",
+                    "Onset": "Maternal half-brother, 4 years younger than the proband, presented with similar features of muscular dystrophy, autism, developmental delay, sensorineural hearing loss, and elevated creatine kinase. cWGS detected the same hemizygous 50.7 Mb balanced pericentric inversion on chromosome X with breakpoints in DMD intron 55 and ~443 kb upstream of POU3F4; karyotyping confirmed the inversion in this affected brother.",
+                    "Phenotype": "Duchenne muscular dystrophy/dystrophinopathy; developmental delay; sensorineural hearing loss; elevated creatine kinase",
+                    "FamilyHistory": "Proband similarly affected; mother is heterozygous carrier for the inversion and has seizures."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Clinical whole-genome sequencing (cWGS); high-resolution karyotyping confirmed inversion in this brother and mother",
+                    "ReferenceSequence": "GRCh37; NM_004006",
+                    "ReportedVariant": "GRCh37: X:31626542-82320140 inv(X)(p21.1q21.1)",
+                    "GenomicCoords": "ChrX: 31,626,542-82,320,140",
+                    "Impact": "Breakpoint in DMD intron 55 predicted to cause premature transcription termination and nonsense-mediated decay; breakpoint upstream of POU3F4 associated with hearing loss.",
+                    "Inheritance": "Maternal",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "Xp21.1 (DMD intron 55) and Xq21.1 (~443 kb upstream of POU3F4); other",
+                    "Note": "Karyotype confirmation successful in affected brother. ASD explicitly stated among clinical features.",
+                    "EvidenceType": "Genetic variant",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "De novo CACAN1D Ca 2+ channelopathies: clinical phenotypes and molecular mechanism",
+        "author": "Ortner NJ, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "CACNA1D",
+                    "ID": "Case 10",
+                    "Sex": "Female",
+                    "Age": "1 year (age of first symptoms); referred at 3 years",
+                    "Severity": "d",
+                    "Onset": "Global developmental delay; difficulty walking; delayed vision maturation.",
+                    "Phenotype": "Severe self-injury; impulsivity.; Muscle hypotonia; sleep disorder (table entry '+'); binocular vision disorder; severe self-injurious behavior.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Global developmental delay reported; no standardized IQ data provided."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "whole exome sequencing (WES performed approximately 2 years after referral; identified de novo CACNA1D variant.)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "p.A749T (p.A749T)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Predicted gain-of-function.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Short trial of immediate-release isradipine was inconclusive and stopped.",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Identification of a Family With Nonspecific Mental Retardation (MRX79) With the A140V Mutation in the MECP2 Gene: Is There a Need for Routine Screening?",
+        "author": "Winnepenninckx B, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient III-6",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "b",
+                    "Onset": "Severe mental retardation; enrolled in a special educational system.",
+                    "Phenotype": "Facial dysmorphism; obesity; gynecomastia; hypogonadism.",
+                    "FamilyHistory": "Three-generation family with five affected males; X-linked segregation with disease haplotype."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Severe intellectual disability is present; without A or B indicators for ASD, phenotype confidence is reduced."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.419C>T (p.Ala140Val)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Missense variant in methyl-binding domain; reported as recurrent in X-linked mental retardation and not found in 100 control males in this study.",
+                    "Inheritance": "Inherited",
+                    "FunctionalStudyOutcome": "Not linked to ASD",
+                    "PreviousResearch": "Unknown",
+                    "VariantDetails": "exon 3; missense",
+                    "Note": "ASD-related features noted without formal ASD diagnosis or standardized assessments.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Preserved speech variant is allelic of classic Rett syndrome",
+        "author": "De Bona C, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "case 109",
+                    "Sex": "Female",
+                    "Age": "13 years",
+                    "Severity": "b",
+                    "Onset": "Case109 has already been fully described as case report (case I-12) in Zappella et al . At present the patient is 13 years old, is in the third stage and her conditions have remained essentially the same as in the description given. She is an obese girl with a high kyphosis, has continuous stereotypic hand-washing activities, speaks in short phrases in the second and third person with echolalias, and has a mental age close to 3-4 years. She also has flat feet, genu valgum and a dyspraxic gait. She has a large head circumference (56.5 cm), albeit within 2 SD. A recent waking EEG shows a basic rhythm of 8 c/s with bursts of 6-7 c/s activities: she has never had epileptic seizures.",
+                    "Phenotype": "Rett preserved speech variant (PSV); continuous stereotypic hand-washing; echolalic short phrases; dyspraxic gait; orthopedic issues (flat feet, genu valgum); macrocephaly within 2 SD; no seizures.; High kyphosis; obesity; flat feet; genu valgum; dyspraxic gait; macrocephaly within 2 SD; no epileptic seizures.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Mental age close to 3\u20134 years (at chronological age 13 years)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.1157del41 or c.1159del44 (exact assignment to this case not specified); frameshift with truncation at ~p.(\u2026/404*)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Frameshift resulting in premature truncation at amino acid position 404.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "3\u2032 coding region (downstream of the transcription repression domain); predicted_null",
+                    "Note": "Paper states that two PSV cases (case 32 and case 109) carry small frameshift deletions in MECP2 (one 41 bp and one 44 bp) causing truncation at p.404, but does not specify which exact deletion (1157del41 vs 1159del44) corresponds to case 109.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "A recurrent SHANK1 mutation implicated in autism spectrum disorder causes autistic-like core behaviors in mice via downregulation of mGluR1-IP3R1-calcium signaling",
+        "author": "Qin Y, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "SHANK1",
+                    "ID": "ASD170P",
+                    "Sex": "Female",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "c.5417 C > T (p.P1806L) was detected in two unrelated ASD individuals: one was de novo, and the other was inherited from his mother, who lacked psychiatric symptoms (Supplementary Table 2).",
+                    "Phenotype": "c.5417 C > T (p.P1806L) was detected in two unrelated ASD individuals: one was de novo, and the other was inherited from his mother, who lacked psychiatric symptoms (Supplementary Table 2).",
+                    "FamilyHistory": "Mother carrier without reported psychiatric symptoms."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "GRCh37/hg19",
+                    "ReportedVariant": "c.5417C>T (p.P1806L)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Mixed in silico predictions; limited deleterious support.",
+                    "Inheritance": "Maternal",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Unknown",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Synaptic, transcriptional and chromatin genes disrupted in autism",
+        "author": "De Rubeis S, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "CACNA1D",
+                    "ID": "case_004",
+                    "Sex": "Unknown",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "\"Two de novo CACNA1D variants (Gly407Arg and Ala749Gly) emerged at positions proximal to residues mutated in patients with primary aldosteronism and neurological deficits (Fig. 1d).\"",
+                    "Phenotype": "\"Two de novo CACNA1D variants (Gly407Arg and Ala749Gly) emerged at positions proximal to residues mutated in patients with primary aldosteronism and neurological deficits (Fig. 1d).\"",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Insufficient information on intellectual ability (IA 'd')."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "p.Gly407Arg (p.Gly407Arg)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Reported mutations in this region interfere with channel activation and inactivation.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "Proximal to residues implicated in channel activation/inactivation; missense",
+                    "Note": "Variant reported as de novo in ASD case; no additional demographics provided.",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Excess of rare novel loss-of-function variants in synaptic genes in schizophrenia and autism spectrum disorders",
+        "author": "Kenny EM, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "case_013",
+                    "Sex": "Unknown",
+                    "Age": "Unknown",
+                    "Severity": "Unknown",
+                    "Onset": "ASD proband with a singleton splice site SNV at the donor site of exon 30 in DMD, predicting premature termination downstream.",
+                    "Phenotype": "ASD proband with a singleton splice site SNV at the donor site of exon 30 in DMD, predicting premature termination downstream.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using Autism Diagnostic Interview-Revised; Autism Diagnostic Observation Schedule-Generic",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "hg19",
+                    "ReportedVariant": "hg19 chrX:32429867 (ref: G, alt: T); splice site SNV; donor site exon 30/79",
+                    "GenomicCoords": "ChrX: 32,429,867-32,429,867",
+                    "Impact": "predicted premature termination downstream",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 30 donor site; canonical splice donor disrupted; predicted_null",
+                    "Note": "File reference: Table 1; Materials and Methods (Samples)",
+                    "EvidenceType": "Splice variant",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "The Clinical and Genetic Features of Co-occurring Epilepsy and Autism Spectrum Disorder in Chinese Children",
+        "author": "Long S, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "P046",
+                    "Sex": "Female",
+                    "Age": "5.0 years",
+                    "Severity": "d",
+                    "Onset": "Unknown",
+                    "Phenotype": "Unknown",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using Autism Behavior Checklist; ADOS; ADI-R; criteria: DSM-V",
+                    "Cognition": "Insufficient information to determine intellectual ability (IA 'd')"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "WES",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "NM_004992.3: exon4:c.509C>T p.T170M",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Unknown",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Not linked to ASD",
+                    "PreviousResearch": "Unknown",
+                    "VariantDetails": "missense",
+                    "Note": "Unknown",
+                    "EvidenceType": "De novo",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MECP2 analysis in mentally retarded patients: implications for routine DNA diagnostics",
+        "author": "Kleefstra T, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "case_003",
+                    "Sex": "Male",
+                    "Age": "11 years",
+                    "Severity": "Unknown",
+                    "Onset": "Initial normal development in first year; later stagnation and regression",
+                    "Phenotype": "Yelling/shouting episodes; small cold feet; loss of purposeful hand use; regression of motor abilities; Convulsions; diffuse EEG abnormalities; sleep disturbances; severe thoracic scoliosis; wheelchair-bound",
+                    "FamilyHistory": "Mother negative for the variant; mosaicism (~25% mutant allele in lymphocytes)"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Severely retarded (clinical description)"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.473G>T (p.T158M (mosaic))",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "recurrent Rett-associated missense; mosaic",
+                    "Inheritance": "Mosaic",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "MBD; missense",
+                    "Note": "Clinical section titled 'p.T158M'. Mosaic mutation; wheelchair-bound at 11 years; severe scoliosis. Source: Main text: Results/DNA studies; Clinical studies of patients with a MECP2 mutation p.T158M; Figure 2 legend; Discussion",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Rett Syndrome: Long-Term Clinical Follow-Up Experiences Over Four Decades",
+        "author": "Hagberg B",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Case S-1",
+                    "Sex": "Female",
+                    "Age": "47 years",
+                    "Severity": "d",
+                    "Onset": "Normal development during first ~1.5 years; subsequently stopped grasping/hand use and regressed in psychomotor development.",
+                    "Phenotype": "Small stature; motor dyspraxia; stereotypic hand movements; scoliosis/kyphosis; dystonia; low pain sensitivity.; History of epileptiform symptoms (controlled by late adolescence); growth retardation; kyphosis; scoliosis; dystonic foot malpositions; low nociception.",
+                    "FamilyHistory": "Born in 1957 to a healthy family"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: Rett syndrome diagnostic criteria (classic, stage III)",
+                    "Cognition": "No formal ASD diagnostic tools reported; Rett diagnosis with clear social-communication impairment and stereotypies supports ASD features."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "MECP2 exon 3\u20134 deletion",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "loss-of-function",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 3; exon 4; predicted_null",
+                    "Note": "Classic Rett syndrome stage III at latest follow-up; long-term ambulatory ability preserved but with dystonic foot postures and motor dyspraxia.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Identification of MeCP2 Mutations in a Series of Females with Autistic Disorder",
+        "author": "Carney RM, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 1",
+                    "Sex": "Female",
+                    "Age": "16 years",
+                    "Severity": "b",
+                    "Onset": "Normal until 18 months; first words and phrases achieved on time; later language development stopped progressing.",
+                    "Phenotype": "Head circumference at 50th percentile; normal at birth; no stereotypic hand movements (wringing/clapping) observed; no truncal ataxia; gait normal-based; no scoliosis.; Dystonic posturing of left arm when walking; occasional side-to-side stereotypic head movements.",
+                    "FamilyHistory": "No family history of mental retardation, RTT, or AutD."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using ADI-R; VABS; criteria: DSM-IV",
+                    "Cognition": "VABS age-equivalent ~60 months (at age 16 years)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "single gene sequencing (Sequencing of MECP2 coding region; family members tested (sisters, mother, paternal grandparents) were negative; father unavailable.)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.1157_1197del",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "frameshift truncation",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "coding region (nucleotides 1157\u20131197); predicted_null",
+                    "Note": "X-chromosome inactivation in blood showed borderline skewing (31%). Father unavailable for sequencing in main text; figure caption indicates de novo based on family member testing.",
+                    "EvidenceType": "De novo CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Variant Profile of MECP2 Gene in Sri Lankan Patients with Rett Syndrome",
+        "author": "Hettiarachchi D, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Proband 5",
+                    "Sex": "Female",
+                    "Age": "5 years (at diagnosis); regression at 3.5 years",
+                    "Severity": "d",
+                    "Onset": "Regression at 3.5 years.",
+                    "Phenotype": "Classic Rett syndrome.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Insufficient information on intellectual ability; learning disabilities mentioned but not quantified."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.473C>T (p.T158M)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "missense (functional impairment in MBD domain)",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Clinically diagnosed classic RTT per revised criteria.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Cognitive and Psychological Profile of Males With Becker Muscular Dystrophy",
+        "author": "Young HK, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "Patient 23",
+                    "Sex": "Male",
+                    "Age": "8.3 years",
+                    "Severity": "d",
+                    "Onset": "One child (patient 23; Table 1) was severely autistic, with no speech, and hence did not complete the cognitive assessment. The patient with severe autism who could not be assessed had a deletion in exons 45-47.",
+                    "Phenotype": "No speech; severe autism.; Becker muscular dystrophy",
+                    "FamilyHistory": "No family history of Becker muscular dystrophy reported (Table 1)."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Could not complete the cognitive assessment; FSIQ not recorded."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "DMD exons 45-47 deletion",
+                    "GenomicCoords": "ChrX: 16-16",
+                    "Impact": "Consistent with Becker muscular dystrophy (altered/reduced dystrophin).",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon; other",
+                    "Note": "FSIQ not recorded; cognitive assessment not completed due to severe autism.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Preserved Speech Variants of the Rett Syndrome: Molecular and Clinical Analysis",
+        "author": "Zappella M, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "169.BM",
+                    "Sex": "Female",
+                    "Age": "12 years",
+                    "Severity": "Unknown",
+                    "Onset": "Mental age approximately 2 years.",
+                    "Phenotype": "Pictures of 169.BM PSV at 12 years (left) and 32.ML at 22 years (right).",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using CARS; criteria: DSM IV",
+                    "Cognition": "Mental age 2y (Table III)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.1157del41 (p.Truncation at 390)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Frameshift leading to premature truncation.",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "C-terminal domain (late truncating); predicted_null",
+                    "Note": "Clinical group A; highly skewed X-inactivation 94:6; late truncating frameshift; mental age ~2 years.",
+                    "EvidenceType": "De novo CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mutations in DDX3X Are a Common Cause of Unexplained Intellectual Disability with Gender-Specific Effects on Wnt Signaling",
+        "author": "Snijders Blok L, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "Individual 6",
+                    "Sex": "Female",
+                    "Age": "2y",
+                    "Severity": "d",
+                    "Onset": "Proposed impact: Mutation could slightly change the folding of the ligand binding pocket.",
+                    "Phenotype": "Proposed impact: Mutation could slightly change the folding of the ligand binding pocket.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Insufficient information on intellectual ability."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.641T>C (p.Ile214Thr)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Mutation could slightly change the folding of the ligand binding pocket.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Not linked to ASD",
+                    "PreviousResearch": "Unknown",
+                    "VariantDetails": "missense",
+                    "Note": "Source file: Supp Information Phenotype of the individuals cases ST1 and relatives from 3 pedigrees ST2.pdf; Source table: Table S3; phenotype table (Age at last visit).",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            },
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "Individual 8",
+                    "Sex": "Female",
+                    "Age": "13y",
+                    "Severity": "d",
+                    "Onset": "Proposed impact: Severe disturbance of local structure, possibly causing problems with protein folding.",
+                    "Phenotype": "Proposed impact: Severe disturbance of local structure, possibly causing problems with protein folding.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Insufficient information on intellectual ability."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.977G>A (p.Arg326His)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Severe disturbance of local structure, possibly causing problems with protein folding.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Not linked to ASD",
+                    "PreviousResearch": "Unknown",
+                    "VariantDetails": "missense",
+                    "Note": "Source file: Supp Information Phenotype of the individuals cases ST1 and relatives from 3 pedigrees ST2.pdf; Source table: Table S3; phenotype table (Age at last visit).",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MECP2 -related conditions in males: A systematic literature review and 8 additional cases",
+        "author": "Inuzuka LM, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 7",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "a",
+                    "Onset": "Severe developmental delay; lack of speech; global hypotonia.",
+                    "Phenotype": "Normal brain MRI.; Seizures refractory to treatment; EEG with multifocal discharges; obesity.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Moderate intellectual disability (no formal IQ provided)."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "single gene sequencing (Sanger sequencing confirmation reported.)",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "Unknown",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "moderate",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon; missense",
+                    "Note": "narrative_case; Sanger confirmed; absent in gnomAD; potential overlap with main tables; occurrence order ~2 in file; Source file: SD5 clinical report of 4 cases.docx",
+                    "EvidenceType": "De novo SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Diagnostic and Clinical Characteristics of Early-Manifesting Females with Duchenne or Becker Muscular Dystrophy",
+        "author": "Imbornoni L, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "Patient 9",
+                    "Sex": "Female",
+                    "Age": "Age range at last evaluation 0-<5; First symptom 3.0 years; Age at diagnosis 3.1 years",
+                    "Severity": "d",
+                    "Onset": "Developmental delay reported (specific domains not detailed).",
+                    "Phenotype": "Elevated CK; muscle histology with fibrosis and fat infiltration; muscle weakness; developmental delay; independent ambulation at 3.6 years; normal cardiac status at 3.4 years.; Intellectual disability; Duchenne/Becker muscular dystrophy with muscle weakness.",
+                    "FamilyHistory": "Negative"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Intellectual disability reported without severity or IQ details; insufficient information for IA classification."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "DMD duplication of exons 45-55",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Exonic copy-number gain involving DMD exons 45-55 reported in Table I.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exonic (duplication of exons 45-55); other",
+                    "Note": "CK 3,277 IU/L; Muscle histology: Fibrosis and fat infiltration with degeneration; Presenting signs and symptoms: Muscle weakness, developmental delay; Ambulation Independent (3.6); Cardiac Normal (3.4). Source: Main text, Table I; Results section.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    },
+    {
+        "title": "RareDeNovoandTransmittedCopy-NumberVariation in Autistic Spectrum Disorders",
+        "author": "Levy D, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX53",
+                    "ID": "Family_12561",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "Unknown",
+                    "Onset": "The deletion of DDX53 in a male proband from family 12561 is the first known ASD-associated de novo mutation at this locus.",
+                    "Phenotype": "The deletion of DDX53 in a male proband from family 12561 is the first known ASD-associated de novo mutation at this locus.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "array CGH (trio)",
+                    "ReferenceSequence": "hg18",
+                    "ReportedVariant": "Unknown",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Loss of function due to hemizygous deletion",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "Xq (DDX53 locus); predicted_null",
+                    "Note": "X-linked gene; de novo deletion in male proband implies hemizygous loss. File reference: Main text - Discussion.",
+                    "EvidenceType": "De novo CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Prospective and detailed behavioral phenotyping in DDX3X syndrome",
+        "author": "Tang L, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DDX3X",
+                    "ID": "DDX5",
+                    "Sex": "Female",
+                    "Age": "Unknown",
+                    "Severity": "Unknown",
+                    "Onset": "Unknown",
+                    "Phenotype": "Unknown",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.865-1G>C",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Unknown",
+                    "Inheritance": "De novo",
+                    "FunctionalStudyOutcome": "Not linked to ASD",
+                    "PreviousResearch": "Unknown",
+                    "VariantDetails": "splice; predicted_null",
+                    "Note": "Unknown",
+                    "EvidenceType": "De novo splice variant",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Cytogenetic and molecular-cytogenetic studies of Rett syndrome (RTT): a retrospective analysis of a Russian cohort of RTT patients (the investigation of 57 girls and three boys)",
+        "author": "Vorsanova SG, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 2",
+                    "Sex": "Male",
+                    "Age": "3 years 6 months",
+                    "Severity": "Unknown",
+                    "Onset": "Sat 7 mo; stood and had ~10 words at 9 mo; walked with support 18 mo; loss of hand use at 20 mo; regression after 12 mo",
+                    "Phenotype": "Gait dyspraxia; dystonia of upper limbs; spasticity in lower limbs; hyperreflexia; slight scoliosis; paroxysmal hyperventilation; vasomotor disturbances of lower limbs; no seizures reported",
+                    "FamilyHistory": "There was a very distant relative (the daughter of a great grand aunt from the maternal side) who suffered from psychosis. The proband's mother had myopy."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Criteria: Diagnostic criteria for Rett syndrome; classical RTT",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "MECP2: early truncating mutation R270X (hotspot 808C>T); plus mosaic 47,XXY detected in muscle (nuc ish Xp11.1\u2013q11.1 (pYAM10-40x2)[28]/(pYAM10-40x1)[172]) with normal blood/skin karyotype",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Protein-truncating MECP2 mutation; tissue-limited 47,XXY mosaicism",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "Xq28 (MECP2 locus); predicted_null",
+                    "Note": "Classical RTT. MECP2 early truncating mutation R270X (hotspot 808C>T) reported. Mosaic 47,XXY detected in muscle (14% interphase nuclei), with normal blood/skin.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Classic Rett syndrome in a boy with R133C mutation of MECP2",
+        "author": "Masuyama T, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "P",
+                    "Sex": "Male",
+                    "Age": "11 years (at time of writing)",
+                    "Severity": "Unknown",
+                    "Onset": "Delayed milestones: head control at 6 months; rolling at 7 months; bare sitting and creeping at 13 months; never crawled; regression with loss of mobility by 7\u20138 years.",
+                    "Phenotype": "Classic Rett syndrome phenotype with regression and stereotypic hand movements.; Generalized convulsions; hypotonia; rigidity and dystonic hypertonicity; dystonic posture; thoracic scoliosis; feeding difficulties requiring gastric tube; irregular breathing during wakefulness.",
+                    "FamilyHistory": "Mother heterozygous MECP2 R133C with very mild intellectual impairment; sister heterozygous R133C with classic RTT."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.397C>T (p.Arg133Cys)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Missense change at critical residue in MBD associated with Rett syndrome.",
+                    "Inheritance": "Maternal",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 4; methyl-binding domain (MBD); missense",
+                    "Note": "Normal 46,XY karyotype; no evidence of somatic mosaicism. MRI with mild frontal/temporal atrophy. Managed with noninvasive ventilation and tube feeding by age 10. File reference: Main text: Title, Abstract, Section 2 Case report, Section 4 Results; Figure 2(A).",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Analysis of Dp71 contribution in the severity of mental retardation through comparison of Duchenne and Becker patients differing by mutation consequences on Dp71 expression",
+        "author": "Daoud F, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "4119/19",
+                    "Sex": "Unknown",
+                    "Age": "19 years",
+                    "Severity": "b",
+                    "Onset": "DMD patient with an out-of-frame multi-exon deletion involving the Dp71 region and clinical description including autistic behaviour.",
+                    "Phenotype": "Duchenne muscular dystrophy",
+                    "FamilyHistory": "Familial, carrier mother."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Adaptive and intellectual performances compatible with severe mental retardation"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.7873_11014del; out of frame deletion of exons 55-77",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Out-of-frame multi-exon deletion predicted to result in loss of dystrophin isoforms including Dp71.",
+                    "Inheritance": "Maternal",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exons 55-77; predicted_null",
+                    "Note": "ASD evidence based on clinical descriptor 'autistic behaviour'; no formal ASD diagnostic instruments or criteria mentioned.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Targeted re-sequencing for early diagnosis of genetic causes of childhood epilepsy: the Italian experience from the ' beyond epilepsy ' project",
+        "author": "Amadori E, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient #13",
+                    "Sex": "Female",
+                    "Age": "31 months",
+                    "Severity": "b",
+                    "Onset": "Language delay (nonverbal); motor delay (not walking).",
+                    "Phenotype": "Rett-like phenotype; autistic-like behaviour; microcephaly; hypotonia; language delay (nonverbal); motor delay (not walking); severe cognitive delay.; Epilepsy (tonic-clonic, myoclonic, atypical absences); EEG left central-anterior epileptiform abnormalities; hypotonia; microcephaly.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Severe cognitive delay reported; no formal IQ testing provided."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "targeted gene panel (Beyond Paediatric Epilepsy Panel.)",
+                    "ReferenceSequence": "GRCh37/hg19; NM_004992.3",
+                    "ReportedVariant": "NM_004992.3:c.502C>T (p.(Arg168*))",
+                    "GenomicCoords": "ChrX: 153,296,777-153,296,777",
+                    "Impact": "loss-of-function",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "Table 1 lists autistic-like behaviour and microcephaly (Rett-like phenotype), hypotonia; language delay nonverbal, motor delay not walking, severe cognitive delay.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Brief Report: MECP2 Mutations in People Without Rett Syndrome",
+        "author": "Suter B, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient SB",
+                    "Sex": "Female",
+                    "Age": "4 yo (last evaluation)",
+                    "Severity": "Unknown",
+                    "Onset": "Normal early motor milestones; language delay after early words.",
+                    "Phenotype": "Repetitive fingertip rubbing and skin picking; lack of response to name.; Minor breath-holding; tremors upon awakening; EEG spike focus without seizures.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using ADOS (Module 1), ADI-R, PEP-R",
+                    "Cognition": "PEP-R overall developmental level 15\u201318 months at age 3y7m."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "single gene sequencing",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "c.1164_1207del",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "C-terminal truncations are common in RTT and typically fall on the lower end of severity.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "EEG with right temporal spike focus but no seizures; minor breath-holding; repetitive fingertip rubbing and skin picking; random XCI.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "The diagnostic utility of a genetics evaluation in children with pervasive developmental disorders",
+        "author": "Abdul-Rahman OA, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "case_004",
+                    "Sex": "Female",
+                    "Age": "25 months",
+                    "Severity": "Unknown",
+                    "Onset": "Developmental delay; loss of hand skills (regression)",
+                    "Phenotype": "Developmental regression; Acquired microcephaly (OFC < 2nd centile)",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Unknown"
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "MECP2 p.R270X (premature stop codon)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Predicted loss-of-function (nonsense)",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "predicted_null",
+                    "Note": "Source location: Main text (Results); Table 3",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Lost in translation: translational interference from a recurrent mutation in exon 1 of MECP2",
+        "author": "Saxena A, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 052 (InterRett case published in Mnatzakanian et al 5)",
+                    "Sex": "Unknown",
+                    "Age": "28 years (in 2005)",
+                    "Severity": "d",
+                    "Onset": "Independent walking 18 months; words with meaning 18 months; loss of speech 36 months; development of hand stereotypies 48 months.",
+                    "Phenotype": "Developmental regression; hand stereotypies; scoliosis.; Rett syndrome; epilepsy (mild, fully suppressed with Tegretol); scoliosis present.",
+                    "FamilyHistory": "Unknown"
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Unknown",
+                    "Cognition": "Insufficient information to classify intellectual ability."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "MeCP2_e1",
+                    "ReportedVariant": "exon 1 deletion generating the same mutant DNA/RNA as c.47_57delGCGAGGAGGAG",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Generates identical truncated MeCP2_e1 protein terminating after amino acid 36; MeCP2_e2 coding sequence unaffected but translational impact inferred similar to Patient 212.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 1; affects MeCP2_e1 coding; 5\u2032UTR for MeCP2_e2 (functionally equivalent to 11 bp deletion); predicted_null",
+                    "Note": "Clinical features summarized in Table 2; first diagnosis Autism; Rett syndrome; epilepsy mild and controlled. Source location in paper: Discussion; Table 2 comparative features from two cases with exon 1 mutation.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Asperger syndrome and early-onset schizophrenia associated with a novel MECP2 deleterious missense variant",
+        "author": "Curie A, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "MECP2",
+                    "ID": "Patient 1",
+                    "Sex": "Male",
+                    "Age": "Unknown",
+                    "Severity": "d",
+                    "Onset": "Age at walking 16 months; age at first words 12 months.",
+                    "Phenotype": "Clumsiness and fine motor difficulties; social withdrawal; hypersomnia and hyperphagia under treatment.; Early-onset schizophrenia (two acute psychotic episodes/relapses); major hyperammonemia under sodium valproate; central early-onset puberty; anxiety, depression, phobia; dyspraxia.",
+                    "FamilyHistory": "Dizygotic twins born to unrelated healthy parents; mother and sister lacked the variant in blood DNA, suggesting maternal germline mosaicism."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using ADOS (module 3); WISC-III; Trail Making Test A; criteria: DSM-IV / DSM-IV-TR Asperger syndrome; ADOS confirmed ASD.",
+                    "Cognition": "WISC-III: verbal IQ 121; performance IQ 58. Trail Making Test A showed impaired mental flexibility. Diagnosis of dyspraxia."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Unknown",
+                    "ReferenceSequence": "hg19; NM_004992.3",
+                    "ReportedVariant": "NM_004992.3:c.491G>T (p.Ser164Ile)",
+                    "GenomicCoords": "ChrX: 153,296,788-153,296,788",
+                    "Impact": "Predicted deleterious by SIFT=0, MutationTaster=1, PolyPhen-2=0.998; changes a highly conserved serine to isoleucine.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 4; missense",
+                    "Note": "ADOS module 3 score 12 (cutoff ASD: 10). Early-onset puberty at 8 years 6 months; hyperammonemia under sodium valproate; psychotic relapses at ages 9\u201311; dyspraxia; heterogeneous WISC-III profile (high VIQ vs low PIQ).",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Duchenne Muscular Dystrophy Successfully Treated with Aripiprazole in a Patient with Autism Spectrum Disorder Symptoms Including Irritability",
+        "author": "Noda S, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "DMD",
+                    "ID": "case_001",
+                    "Sex": "Male",
+                    "Age": "19 years",
+                    "Severity": "Unknown",
+                    "Onset": "We experienced a case of DMD associated with severe psychotic symptoms in a 19-year-old Japanese male patient... At a later date, a genetic test ... revealed a frameshift variant (p. Leu 3376fs) of exon 70 in his DMD gene. With the revision of DSM-5 criteria, he was diagnosed to have ASD. In the WISC-IV test, his FSIQ was 49.",
+                    "Phenotype": "Mild cerebral atrophy on MRI.; Duchenne muscular dystrophy; cognitive impairment; psychotic symptoms (irritability, insomnia, hallucinations, delusions, panic attacks); heart failure (treated with carvedilol and captopril); nocturnal respiratory failure requiring NIPPV; loss of ambulation at 9 years.",
+                    "FamilyHistory": "He had no family history of neuromuscular disorders."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using WISC-IV; criteria: DSM-5",
+                    "Cognition": "WISC-IV at admission: FSIQ 49; VCI 55; PRI 60; WMI 57; PSI 61."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "Target gene sequence capture followed by next-generation sequencing",
+                    "ReferenceSequence": "Unknown",
+                    "ReportedVariant": "p.Leu3376fs (p.Leu3376fs)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Premature translation termination; downstream of exon 63 potentially affecting brain dystrophin isoforms including Dp71.",
+                    "Inheritance": "Unknown",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "exon 70; predicted_null",
+                    "Note": "Diagnosed with DMD at 3 years via muscle biopsy; pervasive developmental disorder at 4 years, later ASD per DSM-5; WISC-IV at admission showed FSIQ 49 with low indices; developed severe psychotic symptoms at 17 years (irritability, insomnia, hallucinations, delusions); treated with aripiprazole 6 mg/day with good response; heart failure treated with carvedilol/captopril at 15; nocturnal respiratory failure requiring NIPPV at 16; MRI showed mild cerebral atrophy; lost ambulation at 9. Variant located in exon 70 (downstream of exon 63), plausibly affecting brain dystrophin isoforms including Dp71.",
+                    "EvidenceType": "CNV",
+                    "IntellectualDisability": "Unknown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Case Report: Clinical delineation of CACNA1D mutation: New cases and literature review",
+        "author": "Alzahrani A, et al.",
+        "cases": [
+            {
+                "ReportedCaseDetails": {
+                    "Gene": "CACNA1D",
+                    "ID": "case 12",
+                    "Sex": "Female",
+                    "Age": "9 years",
+                    "Severity": "b",
+                    "Onset": "Gross motor within normal limits (sat at 7 months, walked at 14 months); fine motor delayed; cognitive and language significantly delayed.",
+                    "Phenotype": "severe intellectual disability; hyperactivity; aggressive impulsive behaviors; sleep disturbance; attention-deficit hyperactivity\u2013like features",
+                    "FamilyHistory": "Variant present in father (ID, psychiatric illness, late-life seizures) and affected sister (severe ID, psychiatric disorder); absent in mother."
+                },
+                "PhenotypingMethodsAndNotes": {
+                    "ASD": "Diagnosed/assessed using DSM-5; criteria: DSM-5",
+                    "Cognition": "Severe intellectual disability."
+                },
+                "ReportedVariantInformation": {
+                    "GenotypingMethod": "whole exome sequencing (WES performed; heterozygous missense variant identified.)",
+                    "ReferenceSequence": "GRCh37/hg19; NM_001128840.3",
+                    "ReportedVariant": "NM_001128840.3:c.2015C>T (p.Ser672Leu)",
+                    "GenomicCoords": "Unknown",
+                    "Impact": "Likely pathogenic; previously identified gain-of-function mutation associated with neurodevelopmental disorders.",
+                    "Inheritance": "Inherited",
+                    "FunctionalStudyOutcome": "Linked to ASD in study",
+                    "PreviousResearch": "Linked to ASD in this study",
+                    "VariantDetails": "missense",
+                    "Note": "Subject of this case report; labeled as case 12 in the paper\u2019s discussion and tables.",
+                    "EvidenceType": "SNV",
+                    "IntellectualDisability": "Present"
+                }
+            }
+        ]
+    }
+]
