@@ -1,0 +1,5 @@
+Model,EAGLE Cases,Precision (Variants),Recall (Variants),F1-Score (Variants)
+BiLSTM (NER),75,78,72,75
+Fine-Tuned LLM,91,88,86,87
+Zero-Shot (o1),94,85,82,83
+3-Shot (o1),96,90,88,89

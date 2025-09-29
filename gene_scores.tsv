@@ -1,0 +1,15 @@
+gene_name	SFARI_score	SFARI_syndromic	EAGLE_score_manual	EAGLE-AI_score
+DMD	NA	TRUE	40.95	
+SHANK1	strong_candidate	FALSE	14.65	
+CACNA1D	strong_candidate	FALSE	12.7	
+DDX3X	high_confidence	TRUE	78.6	
+DDX53	strong_candidate	FALSE	7.3	
+MECP2	high_confidence	TRUE	106.65	
+CACNA1A	high_confidence	TRUE	NA	
+CASK	high_confidence	FALSE	NA	
+CDKL5	high_confidence	TRUE	NA	
+CHAMP1	high_confidence	TRUE	NA	
+CHD3	high_confidence	TRUE	NA	
+FMR1	high_confidence	TRUE	NA	
+GIGYF2	high_confidence	FALSE	NA	
+GRIN1	high_confidence	FALSE	NA	
