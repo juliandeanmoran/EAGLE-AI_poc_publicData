@@ -3,16 +3,16 @@ import logging
 from enum import Enum
 from typing import Dict, List, Optional, Tuple, Any, NamedTuple
 
-from eagle.schemas.case import Case, EAGLECase
-from eagle.schemas.phenotypic_evidence import (
+from schemas.case import Case, EAGLECase
+from schemas.phenotypic_evidence import (
     PhenotypeConfidenceEnum,
     IACategoryEnum,
 )
-from eagle.schemas.experimental_evidence import (
+from schemas.experimental_evidence import (
     ExperimentalEvidence,
 )
-from eagle.schemas.scores import Scores
-from eagle.schemas.genetic_evidence import GeneticEvidence, Variant
+from schemas.scores import Scores
+from schemas.genetic_evidence import GeneticEvidence, Variant
 
 
 # Constants for score tables and guideline references
