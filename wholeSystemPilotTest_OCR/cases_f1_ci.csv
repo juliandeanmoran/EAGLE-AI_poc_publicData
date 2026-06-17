@@ -1,0 +1,2 @@
+Model,TP,FP,FN,F1,CI_lower,CI_upper
+OCR pilot,23,2,16,0.7188,0.5647,0.8176
